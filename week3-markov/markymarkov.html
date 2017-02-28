@@ -1,12 +1,9 @@
-<html>
-<head>
 <script src="../lib/jquery-1.11.1.min.js"></script>
 <script src="../lib/markov.js"></script>
-</head>
 <script>
 var txt;
 var markov = new MarkovGeneratorWord(2,50)
-$.get("sherlock.txt", function(text) {
+$.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
 $.get("thebigsleep.txt", function(text) {
@@ -17,12 +14,5 @@ function generate(){
 	$('body').append("<p>"+t+"</p>")
 }
 </script>
-<body>
-	<p>Another Bob and Doug Gen Test:</p>
-	<button onclick="generate()">Fingers Crossed</button>		
-		
-</body>
-</html>
-
-
-	
+<p>Another Bob and Doug Gen Test:</p>
+<button onclick="generate()">Fingers Crossed</button>		
