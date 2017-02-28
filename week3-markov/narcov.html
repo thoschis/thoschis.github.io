@@ -2,7 +2,7 @@
 <script src="../lib/markov.js"></script>
 <script>
 var txt;
-var markov = new MarkovGenerator(4,9)
+var markov = new MarkovGenerator(4,25)
 $.get("fatherandson.txt", function(text) {
      markov.feed(text);
 });
