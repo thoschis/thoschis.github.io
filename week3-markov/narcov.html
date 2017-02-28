@@ -3,7 +3,7 @@
 <script>
 var txt;
 var markov = new MarkovGenerator(4,9)
-$.get("windhover.txt", function(text) {
+$.get("fatherandson.txt", function(text) {
      markov.feed(text);
 });
 function generate(){
