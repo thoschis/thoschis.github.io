@@ -3,7 +3,7 @@
 <script>
 var txt;
 var markov = new MarkovGenerator(4,200)
-$.get("fatherandson.txt", function(text) {
+$.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
 function generate(){
@@ -11,5 +11,5 @@ function generate(){
 	$('h1').text(t);
 }
 </script>
-<h1>Markov-generated text will go here</h1>
+<h1 >Markov-generated text will go here</h1>
 <button onclick="generate()">Generate</button>
