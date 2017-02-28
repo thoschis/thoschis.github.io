@@ -2,7 +2,7 @@
 <script src="../lib/markov.js"></script>
 <script>
 var txt;
-var markov = new MarkovGenerator(10,200)
+var markov = new MarkovGenerator(10,400)
 $.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
