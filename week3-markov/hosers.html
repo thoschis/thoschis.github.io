@@ -2,7 +2,7 @@
 <script src="../lib/markov.js"></script>
 <script>
 var txt;
-var markov = new MarkovGenerator(10,400)
+var markov = new MarkovGenerator(10,200)
 $.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
@@ -13,9 +13,10 @@ function generate(){
 </script>
 
 <style>
-	@font-face {font-family: Bookman; src: url(bookman_old_style.otf);}
-	h1{font-family: Bookman, serif, font-size: 200%}
-	img{display:block; margin:auto; width:auto}
+	@font-face {font-family: andale; src: url(andale-mono.ttf);}
+	h1{font-family: andale, serif; font-size: 150%; margin:40px, 20px, 0, 20px;}
+	img{display:block; margin:auto; margin-top: 40px; width:auto;}
+	button{display:block; margin:auto;}
 
 </style>
 
