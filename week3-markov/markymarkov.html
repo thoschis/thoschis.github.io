@@ -10,10 +10,7 @@
 	
 	<body>
 		<p>Another Bob and Doug Gen Test:</p>
-		<button onclick="generate()">Fingers Crossed</button>
-		
-		
-		
+		<button onclick="generate()">Fingers Crossed</button>		
 		<script>
 			var txt;
 			var markov = new MarkovGeneratorWord(5,50)
@@ -23,10 +20,10 @@
 				$.get("bobanddoug.txt", function(text) {
     					 markov.feed(text);
 				});
-				function generate(){
-			var t = markov.generate()
+			function generate(){
+				var t = markov.generate()
 				$('h1').text(t);
-}
+			}				
 		</script>
 	</body>
 </html>
