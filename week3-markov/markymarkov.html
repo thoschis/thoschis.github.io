@@ -1,18 +1,35 @@
-<script src="../lib/jquery-1.11.1.min.js"></script>
-<script src="../lib/markov.js"></script>
-<script>
-var txt;
-var markov = new MarkovGeneratorWord(5,50)
-$.get("sherlock.txt", function(text) {
-     markov.feed(text);
-});
-$.get("bobanddoug.txt", function(text) {
-     markov.feed(text);
-});
-function generate(){
-	var t = markov.generate()
-	$('h1').text(t);
+<html>
+	<head>
+		<script src="../lib/jquery-1.11.1.min.js"></script>
+		<script src="../lib/markov.js"></script>
+		
+		<style>
+			
+		</style>
+	</head>
+	
+	<body>
+		<p>Another Bob and Doug Gen Test:</p>
+		<button onclick="generate()">Fingers Crossed</button>
+		
+		
+		
+		<script>
+			var txt;
+			var markov = new MarkovGeneratorWord(5,50)
+				$.get("sherlock.txt", function(text) {
+    					 markov.feed(text);
+				});
+				$.get("bobanddoug.txt", function(text) {
+    					 markov.feed(text);
+				});
+				function generate(){
+			var t = markov.generate()
+				$('h1').text(t);
 }
-</script>
-<h1>Another Bob and Doug Gen Test:<h1>
-<button onclick="generate()">Fingers Crossed</button>
+		</script>
+	</body>
+</html>
+
+
+	
