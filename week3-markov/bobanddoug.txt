@@ -1,355 +1,772 @@
-Good day, all you hosers. Get our album, eh? It's titled Bob & Doug McKenzie, eh? So, go down to your local record shop (or CD shop now), and buy it. Then go to track 13 and You Are Our Guest.
+Good day, all you hosers. Get our album, eh? It's titled Bob & Doug McKenzie, eh? So, go down to your local record shop and buy it. Then go to track 13 and You Are Our Guest.
 
 You Are Our Guest. G'day, and...
 
 Coo roo coo coo, coo coo coo coo
-Bob:
+    Bob:
 Oh, sorry...
-Doug:
+    Doug:
 Coo roo coo coo, coo coo coo coo
-Bob:
+    Bob:
 Sorry. So g'day. Welcome to You Are Our Guest.
-Doug:
+    Doug:
 It's a new show, eh? And like it was my idea.
-Bob:
+    Bob:
 Aw, take off! Okay, so I'm Bob McKenzie, this is my brother Doug.
-Doug:
+    Doug:
 How's it going, eh?
-Bob:
+    Bob:
 Okay, so what you do is, you take the album where it's got this written down, eh? You follow it along and You Are Our Guest.
 SFX:
 Chair.
-Bob:
+    Bob:
 And like, there's even a chair here for you.
-Doug:
+    Doug:
 But like, there's no one in it, eh? So like you're not really our guest, eh?
-Bob:
+    Bob:
 Geez hosehead, will you stop blowing everything?
-Doug:
+    Doug:
 Okay, eh?
-Bob:
+    Bob:
 Okay, so g'day! C'mon up here, sit down. Welcome.
 SFX:
 Sitting in chair.
 YOU:
 G'day, how's it going?
-Bob:
+    Bob:
 Pretty good. So this is the first on the show, eh?
-Bob:
+    Bob:
 You're not nervous, eh?
 YOU:
-No Bob, I'm pretty comfortable.
-Bob:
+NoBob I'm pretty comfortable.
+    Bob:
 Can I get you a beer, or back bacon?
 YOU:
-No thanks Bob, I just ate. Say, you guys like my toque?
-Bob:
+No thanksBob I just ate. Say, you guys like my toque?
+    Bob:
 Yeah, it's a beauty.
 YOU:
-Doug, don't you like my toque?
+    Doug:, don't you like my toque?
   (PAUSE)
-Bob:
+    Bob:
 Hey, hoser...
-Doug:
+    Doug:
 What?
-Bob:
+    Bob:
 Our guest asked you a question.
-Doug:
+    Doug:
 There's nobody here but me and you hosehead.
 YOU:
 Excuse me, can I say something?
-Doug:
+    Doug:
 What?
-Bob:
+    Bob:
 Oh so now you're talking to our guest, eh hoser?
-Doug:
+    Doug:
 Okay, but only cuz he tricked me, eh?
 YOU:
 Listen you hosers, the only reason I came on this show was to tell you guys that the idea of having me as your guest is stolen.
-Bob:
+    Bob:
 It was his idea.
-Doug:
+    Doug:
 Take off, it was not!
 YOU:
 Look, I don't care which one of you hosers ripped it off but it's been done before. On other albums, on TV shows. And all you've proven by doing this is that you're a couple of hosers.
-Bob:
+    Bob:
 Yeah, well you're a hoser for going along with it this far.
-Doug:
+    Doug:
 Yeah, and because like you're doing it with us that makes you a theif too, eh?
 YOU:
 Take off! I am not!
-Bob:
+    Bob:
 Yeah, well you take off!
 YOU:
 Okay hosers, that does it. I'm never coming on this show again. You guys deserve each other. But you don't deserve me! G'day!
 SFX:
 Chair and footsteps.
-Bob:
+    Bob:
 Wait! Give us one more chance.
 YOU:
 Take off!
 SFX:
 Door slam.
-Doug:
+    Doug:
 Oh, nice going. Look what you did!
-Bob:
+    Bob:
 What I did? You did it! You stole the idea.
-Doug:
+    Doug:
 No, I thought of it too, eh! It must have been like a coincidence. You want me to go get your guest back?
-Bob:
+    Bob:
 Forget it.
 
-Doug
+    Doug:
 Ok, now it's May, and, like... uh... what's our topic?
-Bob
+    Bob:
 Um... What happens in May?
-Doug
+    Doug:
 Uh... May 4th?
-Bob
+    Bob:
 There's nothing on May 4th, you hoser!
-Doug
+    Doug:
 Yeah, "May the Fourth be with you!"
-Bob
+    Bob:
 Oh, geez... You're a hoser!
-Doug
+    Doug:
 Want to hear my Darth Vader impression?
-Bob
+    Bob:
 No, I'm sure our readers have heard it many times, hoser.
-Doug
+    Doug:
 Ok. I just remembered what else is in May.
-Bob
+    Bob:
 What's that? Oh! I know now!
 Together
 MAY TWO-FOUR!
-Doug
+    Doug:
 Ok, we get a holiday up here in the Great White North in May, and it's called May Two-Four.
-Bob
+    Bob:
 And, like, some years, it's on May 24th.
-Doug
+    Doug:
 But not always. This year it's on the 18th. So, like, what's that mean?
-Bob
+    Bob:
 Um... We can only drink 18 beers each, instead of a case, which is 24.
-Doug
+    Doug:
 Geez... forget about May Two-Four. I drink more than that on most days, eh?
-Bob
+    Bob:
 Yeah, like maybe 36 is a lot, eh?
-Doug
+    Doug:
 Take off!
-Bob	Okay, good day, and welcome to the Hoser.
-Doug	Good day, eh?
-Bob	Okay. Like, holy geez. We've been writing The Hoser for one year now.
-Doug	Jeepers. One year?
-Bob	Yeah. I can't believe how long that is, eh?
-Doug	Yeah. Put it in perspective...
-Bob	"Perspective", eh? Like, you're using big words now, eh, hoser?
-Doug	Yeah. As I was saying before I was so rudely interrupted, put it in perspective. That's like... a case a day, for 365 days. Um...
-Bob	You can use big words but you can't do math, eh?
-Doug	Hose off, eh? That's a lot of beers, anyway.
-Bob	Yeah, and a lot of back bacon, too.
-Doug	365 cases of beer.
-Bob	Wha?
-Doug	A case a day for 365 days. That's 365 cases of beer.
-Bob	Right. Hoser. Anyway, we've written 12 Hosers now, and since there's a lot of readers, we'll keep writing, like forever, eh?
-Doug	Or until our beer runs out.
-Bob	Yeah. Ok, so that's The Hoser for this month, good day.
-Doug	That's it?
-Bob	Yeah. We've written a year of Hosers, and this is the anniversary issue.
-Doug	Well, I thought it'd be longer.
-Bob	I don't hear you offering any ideas.
-Doug	Okay. We wrote for a year of beer and a year of back bacon, but you forgot donuts. You could've got me a dozen donuts, and I'd have one for each issue we wrote. Or you could've gone to the donut shop where they give you the 13th donut free, and I could have one for this issue, too.
-Bob	Aw, take off!
-Bob	Okay, good day, and welcome to the Hoser.
-Doug	Good day, eh?
-Bob	Ok, it's Christmastime in the Great White North this month.
-Doug	Yeah. Merry Christmas.
-Bob	Aw! Leave me hanging!
-Doug	Huh?
-Bob	Anyway, it's cold out this time of year, and it's snowing, eh?
-Doug	Yeah, time to get out your parka, and go out in the woods to cut down your tree, eh?
-Bob	Yeah. We went out yesterday to get our tree.
-Doug	Well, I went to get the tree. You just came for the beer.
-Bob	Get out! I helped, too.
-Doug	What, by making the back bacon we had for breakfast?! Mine was burned, anyway.
-Bob	No way, eh? I also picked out the tree. It was a beauty, eh?
-Doug	Too bad the van set it on fire, eh?
-Bob	Yeah, too bad. Then we found another good one, and cut it down.
-Doug	It was a beauty. It was too big to fit in the van with all the beer in there, though.
-Bob	Yeah, so we had to drink it all before putting the tree in back. All 12 cases worth.
-Doug	Too bad we were too drunk to go home.
-Bob	I like camping in the woods, though.
-Doug	Me too, but not in December in the Great White North. It's too cold, eh?
-Bob	Yeah, and then when you woke up, you took a leak on the tree we cut down.
-Doug	But you took a leak on my sleeping bag, eh?!
-Bob	Take off, you hoser!
-Bob	Okay, good day, welcome to the Hoser.
-Doug	How's it goin', eh?
-Bob	Today the topic is...
-Doug	Snowplows!
-Bob	Wha? Get out! Snowplows. The real topic is, uh, breakfast.
-Doug	I want snowplows.
-Bob	No, you don't. Ok, breakfast. What do we say about it?
-Doug	They go down the street, eh? And if you parked the van at the side of the road, you're not getting it out 'till May.
-Bob	You're still talking about that, eh?
-Doug	I'm doing snowplows. You can do whatever topic you want, but people will listen to me, eh?
-Bob	They will not. Besides, we've done snowplows before.
-Doug	Hoser.
-Bob	Ok, as I was saying, sometimes you get up before noon, eh?
-Doug	Then you look out the window and see the snowplow block in the van.
-Bob	Take off! You wake up early, and you can't eat lunch, so what do you do?
-Doug	Get the shovel out and start shoveling.
-Bob	Yeah, exactly. You get out some cereal and shovel it in, eh? But, like, what happens when you're out of milk?
-Doug	Nothing, cause you don't need milk to dig out your van.
-Bob	No, you use beer, instead.
-Doug	Aw! Beer on cereal? That doesn't sound very tasty, eh?
-Bob	Oh, so you're doing my topic now, eh?
-Doug	Huh? No! Only 'cause you tricked me, eh?
-Bob	Did not.
-Doug	Did too.
-Bob	You tricked yourself.
-Doug	Hoser.
-Bob	Ok, so, when you wake up early, like maybe you weren't out at the donut place at 3 am or something...
-Doug	That's when the snowplows go by, too.
-Bob	...and you get hungry, and you're out of milk for your cereal, you just use beer. Or lite beer, if you use skim milk.
-Doug	Or like maybe you want to drink some coffee, so you use ice beer instead of cream.
-Bob	Beauty. You're doing my topic again.
-Doug	Take off!
-Bob	You take off! Anyway, whatever way you do it, have some beer for breakfast. Then you'll be ready to shovel out the van.
-Doug	SNORK! Now you're doing my topic!
-Bob	Take off!
-Bob	Okay, good day, welcome to the Hoser.
-Doug	Howzit goin', eh?
-Bob	Okay. Last month, we did "How To Speak Canadian", eh?
-Doug	Yeah, cause it's a real language, and we speak it.
-Bob	It sounds like English, but it's not. Okay, go, hoser.
-Doug	Where did we leave off last time?
-Bob	Uh, I believe you were explaining how the Canadian heritage, landscape, and economy have all contributed to the shaping of our language.
-Doug	Take off, eh? You're trying to hose me by making me look dumb!
-Bob	That's not too hard, eh?
-Doug	Okay, then! Fine! You can do the rest of the topic in French!
-Bob	Oh, beauty! For those of you who are from, like, France, French is Canada's other official language.
-Doug	Beauty one. France. French. Neat.
-Bob	Yeah, well, sometimes we combine the two. Give an example, Doug.
-Doug	Bonjour, eh? Welcome to Canada!
+    Bob:	Okay, good day, and welcome to the Hoser.
+    Doug:	Good day, eh?
+    Bob:	Okay. Like, holy geez. We've been writing The Hoser for one year now.
+    Doug:	Jeepers. One year?
+    Bob:	Yeah. I can't believe how long that is, eh?
+    Doug:	Yeah. Put it in perspective...
+    Bob:	"Perspective", eh? Like, you're using big words now, eh, hoser?
+    Doug:	Yeah. As I was saying before I was so rudely interrupted, put it in perspective. That's like... a case a day, for 365 days. Um...
+    Bob:	You can use big words but you can't do math, eh?
+    Doug:	Hose off, eh? That's a lot of beers, anyway.
+    Bob:	Yeah, and a lot of back bacon, too.
+    Doug:	365 cases of beer.
+    Bob:	Wha?
+    Doug:	A case a day for 365 days. That's 365 cases of beer.
+    Bob:	Right. Hoser. Anyway, we've written 12 Hosers now, and since there's a lot of readers, we'll keep writing, like forever, eh?
+    Doug:	Or until our beer runs out.
+    Bob:	Yeah. Ok, so that's The Hoser for this month, good day.
+    Doug:	That's it?
+    Bob:	Yeah. We've written a year of Hosers, and this is the anniversary issue.
+    Doug:	Well, I thought it'd be longer.
+    Bob:	I don't hear you offering any ideas.
+    Doug:	Okay. We wrote for a year of beer and a year of back bacon, but you forgot donuts. You could've got me a dozen donuts, and I'd have one for each issue we wrote. Or you could've gone to the donut shop where they give you the 13th donut free, and I could have one for this issue, too.
+    Bob:	Aw, take off!
+    Bob:	Okay, good day, and welcome to the Hoser.
+    Doug:	Good day, eh?
+    Bob:	Ok, it's Christmastime in the Great White North this month.
+    Doug:	Yeah. Merry Christmas.
+    Bob:	Aw! Leave me hanging!
+    Doug:	Huh?
+    Bob:	Anyway, it's cold out this time of year, and it's snowing, eh?
+    Doug:	Yeah, time to get out your parka, and go out in the woods to cut down your tree, eh?
+    Bob:	Yeah. We went out yesterday to get our tree.
+    Doug:	Well, I went to get the tree. You just came for the beer.
+    Bob:	Get out! I helped, too.
+    Doug:	What, by making the back bacon we had for breakfast?! Mine was burned, anyway.
+    Bob:	No way, eh? I also picked out the tree. It was a beauty, eh?
+    Doug:	Too bad the van set it on fire, eh?
+    Bob:	Yeah, too bad. Then we found another good one, and cut it down.
+    Doug:	It was a beauty. It was too big to fit in the van with all the beer in there, though.
+    Bob:	Yeah, so we had to drink it all before putting the tree in back. All 12 cases worth.
+    Doug:	Too bad we were too drunk to go home.
+    Bob:	I like camping in the woods, though.
+    Doug:	Me too, but not in December in the Great White North. It's too cold, eh?
+    Bob:	Yeah, and then when you woke up, you took a leak on the tree we cut down.
+    Doug:	But you took a leak on my sleeping bag, eh?!
+    Bob:	Take off, you hoser!
+    Bob:	Okay, good day, welcome to the Hoser.
+    Doug:	How's it goin', eh?
+    Bob:	Today the topic is...
+    Doug:	Snowplows!
+    Bob:	Wha? Get out! Snowplows. The real topic is, uh, breakfast.
+    Doug:	I want snowplows.
+    Bob:	No, you don't. Ok, breakfast. What do we say about it?
+    Doug:	They go down the street, eh? And if you parked the van at the side of the road, you're not getting it out 'till May.
+    Bob:	You're still talking about that, eh?
+    Doug:	I'm doing snowplows. You can do whatever topic you want, but people will listen to me, eh?
+    Bob:	They will not. Besides, we've done snowplows before.
+    Doug:	Hoser.
+    Bob:	Ok, as I was saying, sometimes you get up before noon, eh?
+    Doug:	Then you look out the window and see the snowplow block in the van.
+    Bob:	Take off! You wake up early, and you can't eat lunch, so what do you do?
+    Doug:	Get the shovel out and start shoveling.
+    Bob:	Yeah, exactly. You get out some cereal and shovel it in, eh? But, like, what happens when you're out of milk?
+    Doug:	Nothing, cause you don't need milk to dig out your van.
+    Bob:	No, you use beer, instead.
+    Doug:	Aw! Beer on cereal? That doesn't sound very tasty, eh?
+    Bob:	Oh, so you're doing my topic now, eh?
+    Doug:	Huh? No! Only 'cause you tricked me, eh?
+    Bob:	Did not.
+    Doug:	Did too.
+    Bob:	You tricked yourself.
+    Doug:	Hoser.
+    Bob:	Ok, so, when you wake up early, like maybe you weren't out at the donut place at 3 am or something...
+    Doug:	That's when the snowplows go by, too.
+    Bob:	...and you get hungry, and you're out of milk for your cereal, you just use beer. Or lite beer, if you use skim milk.
+    Doug:	Or like maybe you want to drink some coffee, so you use ice beer instead of cream.
+    Bob:	Beauty. You're doing my topic again.
+    Doug:	Take off!
+    Bob:	You take off! Anyway, whatever way you do it, have some beer for breakfast. Then you'll be ready to shovel out the van.
+    Doug:	SNORK! Now you're doing my topic!
+    Bob:	Take off!
+    Bob:	Okay, good day, welcome to the Hoser.
+    Doug:	Howzit goin', eh?
+    Bob:	Okay. Last month, we did "How To Speak Canadian", eh?
+    Doug:	Yeah, cause it's a real language, and we speak it.
+    Bob:	It sounds like English, but it's not. Okay, go, hoser.
+    Doug:	Where did we leave off last time?
+    Bob:	Uh, I believe you were explaining how the Canadian heritage, landscape, and economy have all contributed to the shaping of our language.
+    Doug:	Take off, eh? You're trying to hose me by making me look dumb!
+    Bob:	That's not too hard, eh?
+    Doug:	Okay, then! Fine! You can do the rest of the topic in French!
+    Bob:	Oh, beauty! For those of you who are from, like, France, French is Canada's other official language.
+    Doug:	Beauty one. France. French. Neat.
+    Bob:	Yeah, well, sometimes we combine the two. Give an example, Doug.
+    Doug:	Bonjour, eh? Welcome to Canada!
 You	That was almost all English, Doug.
-Doug	No, the only words in English were "welcome" and "to", eh?
-Bob	Nice. Okay. Canadian words. We already said "beauty" and "eh?", but what about others?
-Doug	Others?
-Bob	Yeah, like "chesterfield".
-Doug	Okay, folks. A chesterfield is a field owned by a guy named Chester. SNORK!
+    Doug:	No, the only words in English were "welcome" and "to", eh?
+    Bob:	Nice. Okay. Canadian words. We already said "beauty" and "eh?", but what about others?
+    Doug:	Others?
+    Bob:	Yeah, like "chesterfield".
+    Doug:	Okay, folks. A chesterfield is a field owned by a guy named Chester. SNORK!
 You	No it isn't, Doug. A chesterfield is a couch!
-Bob	Yeah, even our readers think you're a dummy.
-Doug	Take off. Okay, a chesterfield is a couch, or sofa, if you will.
-Bob	Okay, more words. "Puck".
-Doug	I thought you said we don't say those words on TV or the internet.
-Bob	No, you're thinking of something else. I meant a hockey puck.
-Doug	Oh, you should've said so, eh? We've got lots of words from hockey, cause hockey's our national sport, eh?
-Bob	Our national winter sport.
-Doug	What's the summer sport?
-Bob	Uh. Curling, I think.
-You	Take off, Bob! It's lacrosse!
-Bob	Lacrosse? We've finished the French part of the topic, eh?
-Doug	No, it's a real game. There's a team in Toronto, eh?
-Bob	Where's the other teams?
-Doug	Somewhere in the States.
-Bob	Well, that's Cheez Whiz! How come it's our official summer sport, but we've got only one team!
-Doug	Someone goofed. Weren't we talking about hockey?
-Bob	Yeah, until the reader confused us with lacrosse, eh?
-Doug	Yeah, reader! Take off!
+    Bob:	Yeah, even our readers think you're a dummy.
+    Doug:	Take off. Okay, a chesterfield is a couch, or sofa, if you will.
+    Bob:	Okay, more words. "Puck".
+    Doug:	I thought you said we don't say those words on TV or the internet.
+    Bob:	No, you're thinking of something else. I meant a hockey puck.
+    Doug:	Oh, you should've said so, eh? We've got lots of words from hockey, cause hockey's our national sport, eh?
+    Bob:	Our national winter sport.
+    Doug:	What's the summer sport?
+    Bob:	Uh. Curling, I think.
+You	Take off,     Bob:! It's lacrosse!
+    Bob:	Lacrosse? We've finished the French part of the topic, eh?
+    Doug:	No, it's a real game. There's a team in Toronto, eh?
+    Bob:	Where's the other teams?
+    Doug:	Somewhere in the States.
+    Bob:	Well, that's Cheez Whiz! How come it's our official summer sport, but we've got only one team!
+    Doug:	Someone goofed. Weren't we talking about hockey?
+    Bob:	Yeah, until the reader confused us with lacrosse, eh?
+    Doug:	Yeah, reader! Take off!
 You	Ok, but then no one will be reading The Hoser.
-Bob	No, wait! Come back!
+    Bob:	No, wait! Come back!
 You	Only if you promise not to tell me to take off again.
-Bob	Ok. Deal.
-Doug	Good. There's lots of words in Canadian from hockey. I don't think there's too many from lacrosse, though.
-Bob	Yeah, like "puck" and "faceoff" and "slapshot" and "centre ice".
-Doug	"Centre ice", not "the neutral zone", eh?
-Bob	Beauty! Explain these words to our non-Canadian readers.
-Doug	Okay, a "puck" is a thick but small disc that really hurts when you get hit in the face by one when you're not wearing a mask.
-Bob	Yeah, next time I'll wear a mask when I play goalie.
-Doug	There's another word, "goalie". He's the guy who sits in the net, and blocks all the pucks from going in.
-Bob	We wear lots of padding, eh? And have a big stick, so we can block the puck, and hit other players harder.
-Doug	Yeah. Remember the game we played with the guys at the looney bin?
-Bob	That was 17 years ago!
-Doug	And about 17 000 beers ago. Remember my Darth Vader impression?
+    Bob:	Ok. Deal.
+    Doug:	Good. There's lots of words in Canadian from hockey. I don't think there's too many from lacrosse, though.
+    Bob:	Yeah, like "puck" and "faceoff" and "slapshot" and "centre ice".
+    Doug:	"Centre ice", not "the neutral zone", eh?
+    Bob:	Beauty! Explain these words to our non-Canadian readers.
+    Doug:	Okay, a "puck" is a thick but small disc that really hurts when you get hit in the face by one when you're not wearing a mask.
+    Bob:	Yeah, next time I'll wear a mask when I play goalie.
+    Doug:	There's another word, "goalie". He's the guy who sits in the net, and blocks all the pucks from going in.
+    Bob:	We wear lots of padding, eh? And have a big stick, so we can block the puck, and hit other players harder.
+    Doug:	Yeah. Remember the game we played with the guys at the looney bin?
+    Bob:	That was 17 years ago!
+    Doug:	And about 17 000 beers ago. Remember my Darth Vader impression?
 You	Everyone remembers that, Doug.
-Doug	Ok, then there's no need to do it now.
-Bob	Good.
-Doug	Are we done?
-Bob	No, we didn't mention pronounciation!
-Doug	Oh, sorry. We don't pronounce it "aboot". Good day.
+    Doug:	Ok, then there's no need to do it now.
+    Bob:	Good.
+    Doug:	Are we done?
+    Bob:	No, we didn't mention pronounciation!
+    Doug:	Oh, sorry. We don't pronounce it "aboot". Good day.
 You	Good day, eh?
-Bob	No, we're still not done! What aboot... uh, about spelling, eh?
-Doug	What about it? Colour has a "u", centre ends with "re", not "er", which I believe is a TV show, and you put "tires" on the van, not "tyres".
-Bob	Beauty. Now we're done.
+    Bob:	No, we're still not done! What aboot... uh, about spelling, eh?
+    Doug:	What about it? Colour has a "u", centre ends with "re", not "er", which I believe is a TV show, and you put "tires" on the van, not "tyres".
+    Bob:	Beauty. Now we're done.
 You	GOOD!
-Doug	Hey! Take off!
+    Doug:	Hey! Take off!
 You	Don't mind if I do!
-Bob	Okay, now look what you did. All our readers have left.
-Doug	That's okay. They'll be back! They always come back!
-Bob	Sounds like an Oscar winning performance.
-Doug	In Canada, they hand out Genie awards for acting.
-Bob	Well, neither of us our going to get one.
-Doug	Probably not.
-Bob	Okay, if there's any readers left, good day.
-Doug	Good day, eh?
+    Bob:	Okay, now look what you did. All our readers have left.
+    Doug:	That's okay. They'll be back! They always come back!
+    Bob:	Sounds like an Oscar winning performance.
+    Doug:	In Canada, they hand out Genie awards for acting.
+    Bob:	Well, neither of us our going to get one.
+    Doug:	Probably not.
+    Bob:	Okay, if there's any readers left, good day.
+    Doug:	Good day, eh?
 You	Good day, eh?
-Doug	Are you still here? We're done, you can leave now. Get out! Take off!
+    Doug:	Are you still here? We're done, you can leave now. Get out! Take off!
 You	You guys take off, eh?
-Bob	Okay, good day, welcome to the Hoser.
-Doug	Howzit goin', eh?
-Bob	Today the topic is the Canadian language.
-Doug	Yeah, people think that Canadians speak English. But, like, we don't, eh?
-Bob	Yeah, it's like a dialect, eh? It sounds like English, and you can probably understand us if you're not from the Great White North. But we're not speaking English.
-Doug	Neat, eh? Go, hoser.
-Bob	There's a good one. Canadians are real polite, eh? So when you want to insult a guy without swearing or something, just call him a "hoser".
-Doug	And we say "take off" instead of other things.
-Bob	Well, we say that when we're on TV or movies or internet.
-Doug	Yeah, well, I'll have to wash your mouth out with soap later.
-Bob	Take off! I mean...
-Doug	Oh, good example of the common usage, eh?
-Bob	Beauty.
-Doug	There's another one.
-Bob	Wha? Oh. "Beauty" is another word we use.
-Doug	What's it mean?
-Bob	Uh. I'm not sure, but it's neat. Repeat after me, folks. Say "beauty".
+    Bob:	Okay, good day, welcome to the Hoser.
+    Doug:	Howzit goin', eh?
+    Bob:	Today the topic is the Canadian language.
+    Doug:	Yeah, people think that Canadians speak English. But, like, we don't, eh?
+    Bob:	Yeah, it's like a dialect, eh? It sounds like English, and you can probably understand us if you're not from the Great White North. But we're not speaking English.
+    Doug:	Neat, eh? Go, hoser.
+    Bob:	There's a good one. Canadians are real polite, eh? So when you want to insult a guy without swearing or something, just call him a "hoser".
+    Doug:	And we say "take off" instead of other things.
+    Bob:	Well, we say that when we're on TV or movies or internet.
+    Doug:	Yeah, well, I'll have to wash your mouth out with soap later.
+    Bob:	Take off! I mean...
+    Doug:	Oh, good example of the common usage, eh?
+    Bob:	Beauty.
+    Doug:	There's another one.
+    Bob:	Wha? Oh. "Beauty" is another word we use.
+    Doug:	What's it mean?
+    Bob:	Uh. I'm not sure, but it's neat. Repeat after me, folks. Say "beauty".
 You	Beauty.
-Bob	Ok, I knew you could.
-Doug	Suddenly this has become "You Are Our Guest, Part II".
-Bob	Yeah, we got the readers to say "beauty".
-Doug	Ok, I've got one! Look under there, eh?
-You	Under where, Doug?
-Doug	SNORK! I just got you to say "underwear"!
-Bob	Geez. How old are you?
-Doug	Old enough to drink, that's all I know.
-Bob	Yeah, right. What else do Canadians say?
-Doug	Eh?
-Bob	I said, what else do Canadians say?
-Doug	I heard you. I say "eh?"
-Bob	Eh? Oh, eh?!
-Doug	Yeah. You may have noticed that we occasionally insert the word "eh?" at the end of our sentences, eh?
-You	Occasionally, Doug?
-Doug	Ok, maybe it's more than that, eh? Um...
-Bob	Yeah, but what does it mean?
-Doug	Uh, it's like "beauty", it's neat.
-Bob	Take off. It has to have a meaning, otherwise we wouldn't say it.
-Doug	Ok, well, maybe it means "my brother is a hoser." Then when I say "take off, eh?" I'm really saying "take off, my brother is a hoser".
-Bob	Could be, eh?
-Doug	Take off. Eh?
-Bob	Ok, maybe it means whatever you think it means.
-Doug	So, take it in context, eh?
-Bob	Ok. So what you meant was "take it in context, do you know what I mean?"
-Doug	Yeah, that's the English way of saying that. The Canadian way uses less syllables.
-Bob	And with the price of gas the way it is, we need to save energy by using words with less syllables, eh?
-Doug	Good one.
-Bob	Yeah. From now on, I'll talk with monosyllabic words.
+    Bob:	Ok, I knew you could.
+    Doug:	Suddenly this has become "You Are Our Guest, Part II".
+    Bob:	Yeah, we got the readers to say "beauty".
+    Doug:	Ok, I've got one! Look under there, eh?
+You	Under where,     Doug:?
+    Doug:	SNORK! I just got you to say "underwear"!
+    Bob:	Geez. How old are you?
+    Doug:	Old enough to drink, that's all I know.
+    Bob:	Yeah, right. What else do Canadians say?
+    Doug:	Eh?
+    Bob:	I said, what else do Canadians say?
+    Doug:	I heard you. I say "eh?"
+    Bob:	Eh? Oh, eh?!
+    Doug:	Yeah. You may have noticed that we occasionally insert the word "eh?" at the end of our sentences, eh?
+You	Occasionally,     Doug:?
+    Doug:	Ok, maybe it's more than that, eh? Um...
+    Bob:	Yeah, but what does it mean?
+    Doug:	Uh, it's like "beauty", it's neat.
+    Bob:	Take off. It has to have a meaning, otherwise we wouldn't say it.
+    Doug:	Ok, well, maybe it means "my brother is a hoser." Then when I say "take off, eh?" I'm really saying "take off, my brother is a hoser".
+    Bob:	Could be, eh?
+    Doug:	Take off. Eh?
+    Bob:	Ok, maybe it means whatever you think it means.
+    Doug:	So, take it in context, eh?
+    Bob:	Ok. So what you meant was "take it in context, do you know what I mean?"
+    Doug:	Yeah, that's the English way of saying that. The Canadian way uses less syllables.
+    Bob:	And with the price of gas the way it is, we need to save energy by using words with less syllables, eh?
+    Doug:	Good one.
+    Bob:	Yeah. From now on, I'll talk with monosyllabic words.
 You	"Monosyllabic" has more than one syllable, Bob.
-Bob	Are you still here?
-Doug	Take off! Don't make him leave!
-Bob	Ok. Sorry.
+    Bob:	Are you still here?
+    Doug:	Take off! Don't make him leave!
+    Bob:	Ok. Sorry.
 You	No way, you hosers. You're out of space for this month, eh?
-Doug	Hey, he's right.
-Bob	Yep. In that case, that's the topic for this month, good day.
-Doug	Good day, eh?
-Bob	Beauty idea for a topic!
-Doug	Yeah, good thing I thought of it.
-Bob	You? Yeah, right. I thought of it, alone.
-Doug	Take off!
+    Doug:	Hey, he's right.
+    Bob:	Yep. In that case, that's the topic for this month, good day.
+    Doug:	Good day, eh?
+    Bob:	Beauty idea for a topic!
+    Doug:	Yeah, good thing I thought of it.
+    Bob:	You? Yeah, right. I thought of it, alone.
+    Doug:	Take off!
+
+    Bob:	Good day, how's it goin'? I'm Bob McKenzie, this is my brother Doug.
+    Doug:	How's it goin', eh?
+    Bob:	Welcome to our tenth anniversary issue!
+    Doug:	Yeah, we started writing the Hoser ten years ago this month.
+    Bob:	Well, not really. We had the original Hoser in our album, eh? Which was what? Ten... fifteen... twenty-five... twenty-six years ago!
+    Doug:	Geez, we're old.
+    Bob:	You're old.
+    Doug:	Oh yeah! And you're in the prime of youth!
+    Bob:	I am! I can still drink a two-four and get up in the morning!
+    Doug:	So? So can I!
+    Bob:	The next morning.
+    Doug:	Oh, okay. Anyways, it only came with the LP. Hosers who bought the CD don't get it.
+    Bob:	Don't get what? All the scratches that LPs had?
+    Doug:	Yeah, well... NO! The Daily Hoser.
+    Bob:	Okay, okay. Anyways, welcome to our tenth anniversary issue.
+    Doug:	Tenth... hey, wait. Aren't we retired?
+    Bob:	We are, but it's also our first rerun issue!
+    Doug:	Oh yeah! (pause) Then why are we here?
+    Bob:	Uh, cause look at the size of this month's issue.
+    Doug:	Oh geez! It's real tiny, eh!
+    Bob:	Yeah, they weren't very long back then, so we gotta embellish.
+    Doug:	We coulda just used a bigger font size.
+    Bob:	You know...
+    Doug:	Kids today can do that on their book reports, eh!
+    Bob:	What's that?
+    Doug:	When the teacher says "make a ten-page book report" they can just use a big font and only write a few paragraphs.
+    Bob:	Geez. We didn't even have typewriters back when we was in school.
+    Doug:	Yeah, we had to write things by hand. Good thing we never had to write The Hoser that way.
+    Bob:	We had our hands free for beer and backbacon.
+    Doug:	And donuts. Don't forget donuts.
+    Bob:	Yeah. So that's it for the tenth anniversary issue of The Hoser. Good day.
+    Doug:	Good day, and welcome to Reruns: starring Bob McKenzie, where he'll keep doing the same dumb things over and over again. Sorta like real life.
+    Bob:	Take off! You hoser!
+
+    Bob:	Good day, and welcome to the Hoser. I'm Bob McKenzie, this is my brother, Doug.
+    Doug:	How's it goin'?
+    Bob:	It's goin' pretty good, cause this is the 120th issue of The Hoser!
+    Doug:	Wow, beauty, eh! That's like ten twelve-packs worth!
+    Bob:	Yeah, or five two-fours!
+    Doug:	That's a lot of beer.
+    Bob:	No, take off! We're talking about issues of The Hoser, not beer.
+    Doug:	Well, we drank a lot of beer while doing those.
+    Bob:	Oh yeah. Probably more than 120.
+    Doug:	So, uh...
+    Bob:	That's twenty six-packs.
+    Doug:	Six-packs? Cans or bottles?
+    Bob:	What difference does it make?
+    Doug:	Well cans have more, eh!
+    Bob:	Oh yeah, a whole lot. Gimme that bottle.
+    Doug:	No way, it's mine!
+    Bob:	I'm not gonna drink it, I just wanna look at it.
+    Doug:	Oh yeah, like I'm gonna believe that story, eh!
+    Bob:	No, just give it to...
+    Doug:	Take off. I'm gonna spit in it first. (he spits in the beer)
+    Bob:	Ah, geez. (takes the beer from     Doug:) Three-fourty-one mill.
+    Doug:	Mill?
+    Bob:	Yeah. Millilitres.
+    Doug:	What's cans?
+    Bob:	Three-fifty-five, the same as pop cans.
+    Doug:	Yeah, so uh... fourteen millilitres difference.
+    Bob:	It's not that much.
+    Doug:	Take off, it is too! That's like half a sip.
+    Bob:	Oh wow, half a sip.
+    Doug:	Well, maybe not for you, you leave part bottles all around the house all the time. But beer connoisseurs like me like to savour every last drop.
+    Bob:	Connoisseur? You?
+    Doug:	Yeah!
+    Bob:	Okay, that's fourteen millilitres more, but cans of beer don't taste as good as bottles!
+    Doug:	So? It's beer. You drink a six-pack and the rest all taste the same!
+    Bob:	Okay, okay.
+    Doug:	So where was I?
+    Bob:	Sittin' next to me, the same place you've been for the last ten years.
+    Doug:	Oh yeah, yeah, right. Ten years of writing The Hoser.
+    Bob:	Wait, hold on to your tuque there, this is the September issue, eh! We always do the anniversary thing in the October issue.
+    Doug:	Well, this issue's so late it may as well be the October issue.
+    Bob:	Hoser.
+    Doug:	So in the last ten years we've done 120 issues. That's 120 topics.
+    Bob:	Oh yeah. Even more if you count the ones I came up with that you didn't want to use.
+    Doug:	That's because they weren't that good.
+    Bob:	Aw geez. Take off.
+    Doug:	You take off.
+    Bob:	No, you!
+    Doug:	(spitting noise)
+    Bob:	(spitting noise)
+    Doug:	(inhaling boogers)
+    Bob:	Okay, okay!
+    Doug:	So that's 120 topics, and now we're out of ideas.
+    Bob:	Yeah, so we're announcing...
+    Doug:	Get out, I wanted to announce it.
+    Bob:	No way, I never get to. We're announcing...
+Both	that we're retiring at the end of this issue.
+    Bob:	Ah geez, you wouldn't even let me finish.
+    Doug:	So yeah, we're finally retiring, and we're gonna move to Florida.
+    Bob:	Yeah, and golf all the time.
+    Doug:	You can golf?
+    Bob:	I've played a few games.
+    Doug:	Do they all involve hitting the ball into the little windmill?
+    Bob:	Yeah, so?
+    Doug:	So that's mini-golf! I'm talking about real golf!
+    Bob:	Mini-golf is real golf!
+    Doug:	Wow, way to alienate all our golf-playing readers.
+    Bob:	All two of 'em?
+    Doug:	Yeah. So anyways, we're gonna start airing reruns...
+    Bob:	Reruns?
+    Doug:	Yeah. Remember, if you haven't read it before, it's new to you!
+    Bob:	Just ignore that "back issues" link at the bottom of the page.
+    Doug:	Spoiler alert!
+    Bob:	Speaking of spoiled, this beer tastes off. (takes a sip)
+    Doug:	Hey, take off! That's the beer I spit in!
+    Bob:	(does a spit-take) Aw geez! You spit in my beer!
+    Doug:	No way, that was my beer! I spit in it so you wouldn't drink it.
+    Bob:	I'm just amazed that you spitting in the beer makes it taste like this.
+    Doug:	Well, I was chewing gum at the time.
+    Bob:	Geez, you can have it back. (hands it back to     Doug:)
+    Doug:	I'm not drinking that! Some guy spit in it! (puts it on the table)
+    Bob:	Hoser. Hey.
+    Doug:	I'm not talking to you, you just called me a hoser.
+    Bob:	How are we gonna fund our retirement? Cause like we don't have any visible means of support, we're still in our parent's basement, and now we're gonna move to Florida?
+    Doug:	What do you mean, "no visible means of support"? We's been doin' commercials for Red Cap beer, and our Two-Four Anniversary Special comes out on DVD later this year!
+    Bob:	Oh, beauty!
+    Doug:	Yeah, so we're not really retiring, we just won't be here every single month.
+    Bob:	So we'll be back?
+    Doug:	Yeah.
+    Bob:	Okay, we're out of space for this month. We'll be back sometime in the far, near future.
+    Doug:	Beauty. Good day, folks!
+    Bob:	Yes. Good day, eh! (to     Doug:) So uh, should I pack my golf clubs?
+    Doug:	What, more than one? In mini-golf, you only need a putter!
+    Bob:	Geez. Take off, you hoser!
+
+    Bob:	Okay, good day, I'm Bob McKenzie, this is my brother Doug.
+    Doug:	How's it goin', eh?
+    Bob:	This month the topic is Canada Day, so go.
+    Doug:	Okay, so Canada Day is on July 1, and they tell us that it's cause Canada became a country on July 1, 1867.
+    Bob:	Yeah, I remember that from school.
+    Doug:	It's the only thing you remember.
+    Bob:	No, take off! I remember lots of stuff from school.
+    Doug:	Like what?
+    Bob:	Uh. How to tie my shoes.
+    Doug:	(looks down) Your shoelace is untied.
+    Bob:	What? (looks)
+    Doug:	Made ya look!
+    Bob:	Geez.
+    Doug:	So anyway, in the country immediately south of us...
+    Bob:	That's the USA.
+    Doug:	Yeah, they know. But in the US, their Independence Day is on July 4, cause on July 4, 1776, uh. Something happened.
+    Bob:	What?
+    Doug:	I don't know. They built the Statue of Liberty or something.
+    Bob:	Oh yeah, that's right, cause it's in Roman numerals on the Statue itself.
+    Doug:	Beauty.
+    Bob:	Yeah, see? I remembered that from school, too.
+    Doug:	Your shoelace is still untied.
+    Bob:	Wha? (looks again)
+    Doug:	Made ya look again!
+    Bob:	Geez. You know what you are?
+    Doug:	Okay, so Canada is supposed to be a younger country than the US, right?
+    Bob:	Yeah, cause one was...
+    Doug:	But how's that work? Canada Day is on July 1st, Independence Day is on July 4th!
+    Bob:	But the...
+    Doug:	So Canada is at least three days older than the US. And our day comes first, so we musta thought of it.
+    Bob:	Oh, beauty, eh!
+    Doug:	Yeah, now you really got something to celebrate.
+    Bob:	Yeah, get some fireworks and blow up your neighbour's shed.
+    Doug:	Shh! Take off! The fire marshall doesn't know that was us!
+    Bob:	Oh, sorry. Uh. The neighbourhood kids did that.
+    Doug:	Yeah, it was them.
+    Bob:	Hey.
+    Doug:	What?
+    Bob:	Should we be fixing like, history textbooks and stuff to make them show that Canada is three days older than the US?
+    Doug:	Yeah, we'll go into the school and take a pen and fix all the books.
+    Bob:	Well, it wouldn't be the first time.
+    Doug:	Shh! Take off! The principal was never able to prove that it was us.
+    Bob:	Yeah, uh, it was those neighbourhood kids again!
+    Doug:	Geez, kids today. We never did that when we were young.
+    Bob:	Yeah we did.
+    Doug:	Shut up, eh!
+You	Hey, you hosers!
+    Bob:	Wha? Oh, hey! It's one of our readers!
+    Doug:	How's it goin', eh? We haven't heard from you for a while.
+You	You two guys don't know anything about history. Or math. You even said so yourself: US Independence Day started on July 4, 1776, and Canada Day wasn't celebrated until July 1, 1867, nearly 91 years later!
+    Doug:	Yeah, well, I blame it on the dominance of American media on Canadian culture, and...
+    Bob:	What does that even mean?
+    Doug:	Uh. I don't know.
+    Bob:	It sounded good, though.
+You	And July 4, 1776 wasn't the day they built the Statue of Liberty, it was the day the Declaration of Independence was drafted!
+    Bob:	Two draught beers, eh!
+You	The Statue of Liberty wasn't even built until 1886! You guys are a couple of hosers!
+    Doug:	Oh yeah? Well, what about John Cabot's voyage to Newfoundland in 1497?
+You	Uh...
+    Bob:	Yeah, or the Viking settlement at L'Anse aux Meadows?
+You	Okay, but...
+    Doug:	Or the earliest people to live in Canada, who would have had to cross into Alaska first but Canada next.
+    Bob:	Yeah, and Alaska wasn't part of the US until October, 1867!
+    Doug:	And Canada became a country in July, 1867. So there.
+You	Geez. How do you guys know so much about Canadian history?
+    Doug:	School.
+    Bob:	Yeah. And Wikipedia.
+You	Oh yeah? Well, your shoelace is untied!
+    Bob:	Wha? (looks for a third time)
+You	Made ya look!
+    Doug:	SNORK!
+    Bob:	Take off! You hosers!
+
+    Bob:	Okay, good day, I'm Bob McKenzie, this is my brother Doug.
+    Doug:	How's it goin', eh?
+    Bob:	So welcome to our driveway...
+    Doug:	No take off! This is the sales lot!
+    Bob:	Oh yeah, yeah! Welcome to our sales lot, here at McKenzie Brothers' Used RV and Trailer Sales! I'm Bob McKenzie, this is my sales associate Doug.
+    Doug:	You already introduced us.
+    Bob:	No way, this is our commercial, eh!
+    Doug:	Oh, right. Hi, folks! I'm DougMcKenzie, owner and general manager of McKenzie Brothers' Used RV and Trailer Sales, and...
+    Bob:	No, take off! Why you get to be the owner and general manager?!
+    Doug:	"Why you get to be"?
+    Bob:	Why do you get to be the owner and...
+    Doug:	Cause I'm older, eh!
+    Bob:	Get out, I have more experience selling stuff.
+    Doug:	You? What did you sell?
+    Bob:	I sold your hockey card collection when you were ten years old.
+    Doug:	Yeah, well... what? Wait a minute. You said they accidentally caught fire!
+    Bob:	Um. Yeah, they caught fire.
+    Doug:	You just said...
+    Bob:	They caught fire, then I sold them.
+    Doug:	Geez.
+    Bob:	So yeah, I'm better at selling stuff. That's why I get to be the owner and general manager and you're just a sales associate.
+    Doug:	I'd like to point out that none of our trailers have caught fire before we sold them.
+    Bob:	Some caught fire after we sold them.
+    Doug:	Take off! Don't tell them that!
+    Bob:	And that one over there had a stove catch fire inside it, but technically the trailer itself didn't catch fire.
+    Doug:	Anyone wanna buy a stove? Uh. As is.
+    Bob:	So over here (points to a beat-up old RV sitting in the driveway) is our latest model. It's uh. Tan. And brown. And it, uh, drives around.
+    Doug:	Beauty description, eh!
+    Bob:	Well, it should drive around. It's really got no engine, but we're gonna modify it so it can be towed.
+    Doug:	So correction: it's a trailer, not an RV.
+    Bob:	Two thousand bucks or best offer.
+    Doug:	Beauty price, too. And over here (points to an even more beat-up old trailer on the other side of the driveway) is our latest acquisition.
+    Bob:	Yeah, it's uh, white, and has one tire! A great security measure if you suspect one of your neighbours is looking to steal it.
+    Doug:	And it's got a fridge and a stove, too!
+    Bob:	Oh yeah! And the fridge works!
+    Doug:	So this one is a real steal of a deal!
+    Bob:	No, take off! Don't say "steal"!
+    Doug:	Why not?
+    Bob:	Cause uh...
+    Doug:	Oh yeah, we took this one out of the junkyard!
+    Bob:	No, get out! It was ours to begin with!
+    Doug:	Right, right. This uh, we got this one from the trailer park itself.
+    Bob:	Yeah, the guy there said we could take it, before it uh. Got towed.
+    Doug:	He was the park manager, or something.
+    Bob:	Was he?
+    Doug:	I don't know, I never asked.
+    Bob:	Anyway, so yeah, it was ours so we had every right to break into that junkyard.
+    Doug:	No, no, we didn't break in!
+    Bob:	Yeah we... I mean, no! And don't call it a junkyard. We don't sell junk here at McKenzie Brothers' Used RV and Trailer Sales.
+    Doug:	No, it was a uh, metal recycling yard it got took to. Not a junkyard.
+    Bob:	And it's very environmentally friendly.
+    Doug:	Yes: by storing those old cars and trailers there, they're preventing oil from leaking into our nation's campgrounds.
+    Bob:	I'd also like to take this opretunity to...
+    Doug:	"Opretunity"?! Have you been sniffing the fumes coming from that trailer?
+    Bob:	Fumes? No, our trailers don't have fumes here at McKenzie Brothers' Used RV and Trailer Sales.
+    Doug:	Supplying fumes is your responsibility.
+    Bob:	Yeah. So anyway, I'd like to take this opportunity to announce our new business venture into warehousing. So to that guy who left all his tools in the one RV, you can now come get them at McKenzie Brothers' Self-Storage and Warehousing, uh, Sales.
+    Doug:	Yeah, yeah. For the low-low price of $31.95. Per month.
+    Bob:	No, week. Wait, why $31.95?
+    Doug:	Cause that's the price of a case of beer.
+    Bob:	Oh beauty. So yeah, come on down today to McKenzie Brothers' Used RV and Trailer Sales!
+    Doug:	Plus Self-Storage and Warehousi...
+voice from the house	Hey! Did you two hosers get those pieces of junk off my driveway?!
+    Bob:	(to the voice) Not yet, dad!
+    Doug:	We will though: we just recorded a commercial!
+Mr. McKenzie	You idiots! Just get them out of there!
+    Bob:	(whispering) Geez, he's real ticked off, eh!
+    Doug:	Yeah. I guess we gotta go.
+    Bob:	Okay, so good day.
+    Doug:	Good day, eh!
+
+    Bob:	Okay, good day, I'm Bob McKenzie, this is my brother Doug.
+    Doug:	How's it goin', eh?
+    Bob:	So this month the topic is America versus England.
+    Doug:	Yeah, and before we start I wanna point out that we don't dislike Americans or Englanders.
+    Bob:	Englanders?
+    Doug:	Yeah. As Canadians, we got influenced by both of you, but some of the things you do annoy us.
+    Bob:	Okay, number one thing that annoys Canadians about Americans and Englanders.
+    Doug:	It's not "Englanders", is it?
+    Bob:	Well that's what you called 'em.
+    Doug:	I think it's "British".
+    Bob:	Oh yeah, yeah. That makes more sense. So the number one thing that annoys Canadians about American people and British people: chips.
+    Doug:	Yeah, like neither of you can figure them out, right? I was in a restaurant in Banff like two years ago and there was guy from the US arguing with a guy from England about whether French fries should be called "chips" or potato chips should be called chips. And you know, it's not that hard to figure out, eh?
+    Bob:	Yeah, cause ordinarily you get potato chips in a bag and they're crunchy, and...
+    Doug:	But Englanders... sorry, British call those "crisps".
+    Bob:	And that's okay, but when you go into a restaurant and order "fish and chips", I don't expect the crunchy ones to be on the side of the plate, I expect French fries.
+    Doug:	Right, so figure it out from the context, eh!
+    Bob:	And you go into a deli, right? So there if you order a sandwich with chips, you're probably gonna get crisps on the side. Like I was in this deli in Montreal once, and...
+    Doug:	You know what else they got in Montreal?
+    Bob:	What's that?
+    Doug:	Poutine.
+    Bob:	Oh yeah! So all hosers in the US and Britain and England, order poutine instead of fries or chips.
+    Doug:	You know what poutine is, right?
+    Bob:	Yeah.
+    Doug:	No, I was talking to our readers.
+    Bob:	Oh, sorry.
+    Doug:	It's French fries, or chips if you're from England, with Bob curds and gravy on them.
+    Bob:	Yeah, all that cholesterol is probably bad for your heart, but it balances out cause drinking one or two beers a day is good for your heart.
+    Doug:	Wow, we must be the healthiest guys in Canada.
+    Bob:	Yeah.
+    Doug:	So forget fries and chips, just order poutine.
+    Bob:	Anyway, thing that bugs us about Americans and British people number two: and it's really the same thing as number one.
+    Doug:	Yeah. Football. We get it, there's two different sports called football, you don't have to get into arguments over them.
+    Bob:	One's a game where the guys wear lots of padding and helmets and stuff and throw around this blimp-shaped ball and they call that football here in Canada and the US.
+    Doug:	But the other's a game on a huge field where guys with hardly any padding run around and try to kick this ball that looks sorta like Epcot Center.
+    Bob:	No, no. Epcot Center looks like a golf ball. These look more like soccer balls.
+    Doug:	Um. That's cause they are soccer balls, you hoser.
+    Bob:	Geez.
+    Doug:	So once again, figure it out. If someone who sounds like they're from Texas is talking about football, they probably mean the game with the weird ball and helmets.
+    Bob:	And get him some barbecue. Uh, barbecue chips.
+    Doug:	Barbecue crisps, too.
+    Bob:	Beauty.
+    Doug:	Yeah, and if a guy with a British accent is talking about football, they probably mean the game with the soccer ball.
+    Bob:	Or an even easier way. If the game is being shown on one of the major networks, it's American football. If it's being shown on ESPN Twelve or whatever, it's Rest-Of-The-World football.
+    Doug:	Beauty. And once again, Canadian football is superior to the other two.
+    Bob:	Right, so forget about all types of football unless it has three downs, and...
+    Doug:	No way, Canadian football has four downs. We always punt on the third, just to be safe!
+    Bob:	Take off! We do not! You stole that bit from SCTV's Canadian Facts!
+    Doug:	Yeah, well we worked at that station so we should be able to steal whatever we want!
+    Bob:	We worked there?
+    Doug:	Yeah!
+    Bob:	I thought we was doing it for free cause Mr. Caballero knew about those bootleg VHS tapes we was makin' on the station's video machine!
+    Doug:	Well now everyone...
+    Bob:	He said (doing his best Guy Caballero impression) "you hosers bring in lots of advertising dollars so I'm not going to fire you, but from now on you'll be working for peanuts! Eh-heh-heh-heh!"
+    Doug:	Oh get out! Now everyone knows about it and we're gonna get fired!
+    Bob:	So? That station's been off the air for 23 years!
+    Doug:	Oh geez! Take off! We better find new jobs!
+
+Robert	Good evening, I'm Robert McKenzie, this is my elder male sibling     Doug:las.
+    Doug:las	Greetings and salutations.
+Robert	Welcome to the premier issue of The "New" Hoser, an Internet magazine devoted to an intellectual discussion of the Canadian condition.
+    Doug:las	Our first topic in this month's issue will be the proliferation of Canadian wines in the global marketplace.
+Robert	Yes, of course. Many non-Canadians are unaware of the improved quality of Canadian wines that have been produced in the past several years.
+    Doug:las	There are many fine wineries in both Ontario and British Columbia, along with a handful in other regions including Nova Scotia and Québec. In fact, the Chardonnay that I will be consuming after we complete this issue of The New Hoser was produced in the nearby Niagara region of Ontario.
+Robert	And afterwards I will be trying an icewine from Pelee Island.
+    Doug:las	I've always found it somewhat coincidental that Canada is well known for it's icewine production, considering the common misconception that Canada is covered in ice and snow for much of the year.
+Robert	Indeed. And naturally we wouldn't dare to consume an alcoholic beverage during the course of this conversation.
+    Doug:las	Of course not! That would be the domain of boorish louts who sit around all day and drink beer and eat backbacon.
+Robert	Ah, excellent point, Robert!
+    Doug:las	You're Robert. I'm     Doug:las.
+Robert	Oh yes, of course. Excellent point,     Doug:las. Our "back" bacon is well known in other countries as "Canadian" bacon.
+    Doug:las	Not to be confused with pork loin, which is generally produced in much thicker cuts and rolled in cornmeal.
+Robert	Ah, but despite the cornmeal it is also known as "peameal" bacon.
+    Doug:las	Referring back to an earlier time when peameal was more plentiful, no doubt.
+Robert	I had not considered that, but it is likely true.
+    Doug:las	SNORK!
+Robert	I'm sorry?
+    Doug:las	Ah, sorry, I have a slight cold.
+Robert	Oh, well it has been rather damp lately.
+    Doug:las	Yes, we assure our international readers that while Canada is not covered in ice and snow for all of the year, the weather has only recently begun to warm up.
+Robert	Yes, the grandiose piles of snow in the parking areas have just started to melt.
+    Doug:las	Placed there by the snowplow, I suppose?
+Robert	Yes, and driven by those same boorish Canadians who drink beer and eat backbacon that we referred to earlier in this issue of The New Hoser.
+    Doug:las	Uh... do they wear tuques?
+Robert	If you're referring to their knit woolen headgear then yes. I always fear for my automobile when I am alerted to the presence of the snowplow.
+    Doug:las	You do?
+Robert	Yes, the hockey-player mentality of the drivers of those plows could certainly lead them to inadvertently damage my vehicle's fine German engineering.
+    Doug:las	SNORK! Okay, I can't take it anymore!
+Robert	Cannot take what?
+    Doug:	Okay, take off! You'reBob I'm Doug. Folks, this isn't The New Hoser, just the plain old Hoser you're all used to!
+    Bob:	Aw, geez, you ruined the whole thing!
+    Doug:	Yeah, that was our April Fools' issue, hope you enjoyed it, eh!
+    Bob:	I'll bet they didn't!
+    Doug:	Yeah, no one but us knew what was going on!
+    Bob:	Wow, good thing we're reading from a script, we'd never have got through that any other way.
+    Doug:	What? You got a script?! I was making all that up!
+    Bob:	You were not! Take off, you hoser!
+
+    Bob:	Okay, good day, I'm Bob McKenzie, this is my brother Doug.
+    Doug:	How's it goin', eh?
+    Bob:	So welcome to our celebration of Cinco de Mayo, eh! Cinco de Mayo is a Mexican holiday and from the sounds of it it's a big contest to see if mayonnaise will sink.
+    Doug:	Yeah, I believe it's Spanish for "Sink-o the Mayo".
+    Bob:	Wow. How did you know that?
+    Doug:	I read a lot, eh.
+    Bob:	Oh yeah? Where'd you read that?
+    Doug:	Uh... probably on the back of a mayonnaise jar or something.
+    Bob:	Beauty. So it must be a pretty big deal cause you see it on the news all the time, right?
+    Doug:	Yeah, and it's harder than it looks, cause we've got five different kinds of mayonnaise here and we can't get any of them to sink at all, eh!
+    Bob:	We was in our neighbour's pool and he was pretty mad that we tried it with the tops off the jars.
+    Doug:	Well I figured the water would run in and fill the jars and get rid of all the air and weigh them down, eh! I didn't realize it would all slime out.
+    Bob:	Hey, he should be thanking us that he no longer needs a solar cover.
+    Doug:	Really, eh! So we tried the regular stuff, the stuff made with whole eggs...
+    Bob:	Don't forget the salad dressing, eh!
+    Doug:	Yeah, two types of salad dressing. We even got some No Name™ brand mayonnaise!
+    Bob:	Did you just say the trademark symbol?
+    Doug:	I did cause it's a brand name! Besides, this is on the Internet, it's written, not spoken.
+    Bob:	Well, not anymore, eh! There's videos and sounds and pictures and everything online now! It hasn't been just written since 1997!
+    Doug:	So? The design of this site hasn't been updated since 1997, either.
+    Bob:	We should do something about that, eh?
+    Doug:	Yeah, and... (eats a spoonful of mayonnaise) ..geez, this stuff is pretty good! I can see why they'd hold parties in its honour.
+    Bob:	Aw geez. At least get some fries or something to eat it with!
+    Doug:	You want some?
+    Bob:	Oh. Okay. (takes a spoonful) Hey wait, maybe Cinco de Mayo isn't got anything to do with sinking mayonnaise jars, but is just a celebration of uh, the invention of mayonnaise.
+    Doug:	Could be, eh?
+You	Hey.
+    Bob:	What?
+    Doug:	Hey, it's our reader!
+    Bob:	Whaddya want?!
+    Doug:	Oh, way to be polite, eh!
+    Bob:	Oh, sorry. Uh, you were saying, reader?
+You	You guys realize that Cinco de Mayo has nothing to do with mayonnaise, right?
+    Bob:	What? No way, it's got "Mayo" in the name!
+You	It's a holiday to celebrate the Mexican Victory over French forces on May 5, 1862.
+    Doug:	Why didn't they just call it May The Fifth, then?
+You	Cinco de Mayo is Spanish for "May The Fifth", you nobk!
+    Doug:	Aw geez!
+    Bob:	Hey, they shoulda held the battle three weeks later and called it May Two-Four, eh!
+    Doug:	That'd be great. Then they could get not only a two-four of beer, but also five jars of mayonnaise, and...
+You	You guys are a bunch of hosers.
+    Bob:	Oh yeah? Well take off!
+You	Fine, I will!
+SFX	door slamming
+    Doug:	Geez, how come we always end up annoying our readers, eh?
+    Bob:	It's your fault.
+    Doug:	Take off, eh!
