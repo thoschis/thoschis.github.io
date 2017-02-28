@@ -47,7 +47,7 @@ No thanks Bob I just ate. Say, you guys like my toque?
 Yeah, it's a beauty.
 Buddy:
     Doug:, don't you like my toque?
-  (PAUSE)
+  PAUSE
     Bob:
 Hey, hoser...
     Doug:
@@ -371,7 +371,7 @@ You	No way, you hosers. You're out of space for this month, eh?
     Bob:	Okay, okay. Anyways, welcome to our tenth anniversary issue.
     Doug:	Tenth... hey, wait. Aren't we retired?
     Bob:	We are, but it's also our first rerun issue!
-    Doug:	Oh yeah! (pause) Then why are we here?
+    Doug:	Oh yeah! pause Then why are we here?
     Bob:	Uh, cause look at the size of this month's issue.
     Doug:	Oh geez! It's real tiny, eh!
     Bob:	Yeah, they weren't very long back then, so we gotta embellish.
@@ -407,8 +407,8 @@ You	No way, you hosers. You're out of space for this month, eh?
     Bob:	I'm not gonna drink it, I just wanna look at it.
     Doug:	Oh yeah, like I'm gonna believe that story, eh!
     Bob:	No, just give it to...
-    Doug:	Take off. I'm gonna spit in it first. (he spits in the beer)
-    Bob:	Ah, geez. (takes the beer from     Doug:) Three-fourty-one mill.
+    Doug:	Take off. I'm gonna spit in it first. he spits in the beer
+    Bob:	Ah, geez. takes the beer from     Doug: Three-fourty-one mill.
     Doug:	Mill?
     Bob:	Yeah. Millilitres.
     Doug:	What's cans?
@@ -435,9 +435,9 @@ You	No way, you hosers. You're out of space for this month, eh?
     Bob:	Aw geez. Take off.
     Doug:	You take off.
     Bob:	No, you!
-    Doug:	(spitting noise)
-    Bob:	(spitting noise)
-    Doug:	(inhaling boogers)
+    Doug:	spitting noise
+    Bob:	spitting noise
+    Doug:	inhaling boogers
     Bob:	Okay, okay!
     Doug:	So that's 120 topics, and now we're out of ideas.
     Bob:	Yeah, so we're announcing...
@@ -460,14 +460,14 @@ Both	that we're retiring at the end of this issue.
     Doug:	Yeah. Remember, if you haven't read it before, it's new to you!
     Bob:	Just ignore that "back issues" link at the bottom of the page.
     Doug:	Spoiler alert!
-    Bob:	Speaking of spoiled, this beer tastes off. (takes a sip)
+    Bob:	Speaking of spoiled, this beer tastes off. takes a sip
     Doug:	Hey, take off! That's the beer I spit in!
-    Bob:	(does a spit-take) Aw geez! You spit in my beer!
+    Bob:	does a spit-take Aw geez! You spit in my beer!
     Doug:	No way, that was my beer! I spit in it so you wouldn't drink it.
     Bob:	I'm just amazed that you spitting in the beer makes it taste like this.
     Doug:	Well, I was chewing gum at the time.
-    Bob:	Geez, you can have it back. (hands it back to     Doug:)
-    Doug:	I'm not drinking that! Some guy spit in it! (puts it on the table)
+    Bob:	Geez, you can have it back. hands it back to     Doug:
+    Doug:	I'm not drinking that! Some guy spit in it! puts it on the table
     Bob:	Hoser. Hey.
     Doug:	I'm not talking to you, you just called me a hoser.
     Bob:	How are we gonna fund our retirement? Cause like we don't have any visible means of support, we're still in our parent's basement, and now we're gonna move to Florida?
@@ -478,7 +478,7 @@ Both	that we're retiring at the end of this issue.
     Doug:	Yeah.
     Bob:	Okay, we're out of space for this month. We'll be back sometime in the far, near future.
     Doug:	Beauty. Good day, folks!
-    Bob:	Yes. Good day, eh! (to     Doug:) So uh, should I pack my golf clubs?
+    Bob:	Yes. Good day, eh! to     Doug: So uh, should I pack my golf clubs?
     Doug:	What, more than one? In mini-golf, you only need a putter!
     Bob:	Geez. Take off, you hoser!
 
@@ -491,8 +491,8 @@ Both	that we're retiring at the end of this issue.
     Bob:	No, take off! I remember lots of stuff from school.
     Doug:	Like what?
     Bob:	Uh. How to tie my shoes.
-    Doug:	(looks down) Your shoelace is untied.
-    Bob:	What? (looks)
+    Doug:	looks down Your shoelace is untied.
+    Bob:	What? looks
     Doug:	Made ya look!
     Bob:	Geez.
     Doug:	So anyway, in the country immediately south of us...
@@ -504,7 +504,7 @@ Both	that we're retiring at the end of this issue.
     Doug:	Beauty.
     Bob:	Yeah, see? I remembered that from school, too.
     Doug:	Your shoelace is still untied.
-    Bob:	Wha? (looks again)
+    Bob:	Wha? looks again
     Doug:	Made ya look again!
     Bob:	Geez. You know what you are?
     Doug:	Okay, so Canada is supposed to be a younger country than the US, right?
@@ -550,7 +550,7 @@ You	Geez. How do you guys know so much about Canadian history?
     Doug:	School.
     Bob:	Yeah. And Wikipedia.
 You	Oh yeah? Well, your shoelace is untied!
-    Bob:	Wha? (looks for a third time)
+    Bob:	Wha? looks for a third time
 You	Made ya look!
     Doug:	SNORK!
     Bob:	Take off! You hosers!
@@ -562,7 +562,7 @@ You	Made ya look!
     Bob:	Oh yeah, yeah! Welcome to our sales lot, here at McKenzie Brothers' Used RV and Trailer Sales! I'm Bob McKenzie, this is my sales associate Doug.
     Doug:	You already introduced us.
     Bob:	No way, this is our commercial, eh!
-    Doug:	Oh, right. Hi, folks! I'm DougMcKenzie, owner and general manager of McKenzie Brothers' Used RV and Trailer Sales, and...
+    Doug:	Oh, right. Hi, folks! I'm Doug McKenzie, owner and general manager of McKenzie Brothers' Used RV and Trailer Sales, and...
     Bob:	No, take off! Why you get to be the owner and general manager?!
     Doug:	"Why you get to be"?
     Bob:	Why do you get to be the owner and...
@@ -581,12 +581,12 @@ You	Made ya look!
     Doug:	Take off! Don't tell them that!
     Bob:	And that one over there had a stove catch fire inside it, but technically the trailer itself didn't catch fire.
     Doug:	Anyone wanna buy a stove? Uh. As is.
-    Bob:	So over here (points to a beat-up old RV sitting in the driveway) is our latest model. It's uh. Tan. And brown. And it, uh, drives around.
+    Bob:	So over here points to a beat-up old RV sitting in the driveway is our latest model. It's uh. Tan. And brown. And it, uh, drives around.
     Doug:	Beauty description, eh!
     Bob:	Well, it should drive around. It's really got no engine, but we're gonna modify it so it can be towed.
     Doug:	So correction: it's a trailer, not an RV.
     Bob:	Two thousand bucks or best offer.
-    Doug:	Beauty price, too. And over here (points to an even more beat-up old trailer on the other side of the driveway) is our latest acquisition.
+    Doug:	Beauty price, too. And over here points to an even more beat-up old trailer on the other side of the driveway is our latest acquisition.
     Bob:	Yeah, it's uh, white, and has one tire! A great security measure if you suspect one of your neighbours is looking to steal it.
     Doug:	And it's got a fridge and a stove, too!
     Bob:	Oh yeah! And the fridge works!
@@ -618,10 +618,10 @@ You	Made ya look!
     Bob:	Oh beauty. So yeah, come on down today to McKenzie Brothers' Used RV and Trailer Sales!
     Doug:	Plus Self-Storage and Warehousi...
 voice from the house	Hey! Did you two hosers get those pieces of junk off my driveway?!
-    Bob:	(to the voice) Not yet, dad!
+    Bob:	to the voice Not yet, dad!
     Doug:	We will though: we just recorded a commercial!
 Mr. McKenzie	You idiots! Just get them out of there!
-    Bob:	(whispering) Geez, he's real ticked off, eh!
+    Bob:	whispering Geez, he's real ticked off, eh!
     Doug:	Yeah. I guess we gotta go.
     Bob:	Okay, so good day.
     Doug:	Good day, eh!
@@ -678,7 +678,7 @@ Mr. McKenzie	You idiots! Just get them out of there!
     Doug:	Yeah!
     Bob:	I thought we was doing it for free cause Mr. Caballero knew about those bootleg VHS tapes we was makin' on the station's video machine!
     Doug:	Well now everyone...
-    Bob:	He said (doing his best Guy Caballero impression) "you hosers bring in lots of advertising dollars so I'm not going to fire you, but from now on you'll be working for peanuts! Eh-heh-heh-heh!"
+    Bob:	He said doing his best Guy Caballero impression "you hosers bring in lots of advertising dollars so I'm not going to fire you, but from now on you'll be working for peanuts! Eh-heh-heh-heh!"
     Doug:	Oh get out! Now everyone knows about it and we're gonna get fired!
     Bob:	So? That station's been off the air for 23 years!
     Doug:	Oh geez! Take off! We better find new jobs!
@@ -714,7 +714,7 @@ Robert	If you're referring to their knit woolen headgear then yes. I always fear
 Robert	Yes, the hockey-player mentality of the drivers of those plows could certainly lead them to inadvertently damage my vehicle's fine German engineering.
     Douglas:	SNORK! Okay, I can't take it anymore!
 Robert	Cannot take what?
-    Doug:	Okay, take off! You'reBob I'm Doug. Folks, this isn't The New Hoser, just the plain old Hoser you're all used to!
+    Doug:	Okay, take off! You're Bob I'm Doug. Folks, this isn't The New Hoser, just the plain old Hoser you're all used to!
     Bob:	Aw, geez, you ruined the whole thing!
     Doug:	Yeah, that was our April Fools' issue, hope you enjoyed it, eh!
     Bob:	I'll bet they didn't!
@@ -744,10 +744,10 @@ Robert	Cannot take what?
     Bob:	Well, not anymore, eh! There's videos and sounds and pictures and everything online now! It hasn't been just written since 1997!
     Doug:	So? The design of this site hasn't been updated since 1997, either.
     Bob:	We should do something about that, eh?
-    Doug:	Yeah, and... (eats a spoonful of mayonnaise) ..geez, this stuff is pretty good! I can see why they'd hold parties in its honour.
+    Doug:	Yeah, and... eats a spoonful of mayonnaise ..geez, this stuff is pretty good! I can see why they'd hold parties in its honour.
     Bob:	Aw geez. At least get some fries or something to eat it with!
     Doug:	You want some?
-    Bob:	Oh. Okay. (takes a spoonful) Hey wait, maybe Cinco de Mayo isn't got anything to do with sinking mayonnaise jars, but is just a celebration of uh, the invention of mayonnaise.
+    Bob:	Oh. Okay. takes a spoonful Hey wait, maybe Cinco de Mayo isn't got anything to do with sinking mayonnaise jars, but is just a celebration of uh, the invention of mayonnaise.
     Doug:	Could be, eh?
 You	Hey.
     Bob:	What?
