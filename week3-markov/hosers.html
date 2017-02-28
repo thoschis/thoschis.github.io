@@ -2,7 +2,7 @@
 <script src="../lib/markov.js"></script>
 <script>
 var txt;
-var markov = new MarkovGenerator(10,200)
+var markov = new MarkovGenerator(8,300)
 $.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
@@ -11,14 +11,20 @@ function generate(){
 	$('p').text(t);
 }
 </script>
-
 <style>
 	@font-face {font-family: andale; src: url(andale-mono.ttf);}
-	p{font-family: andale, serif; font-size: 150%; margin:100px, 200px, 0, 200px;}
+	p{font-family: andale, serif; font-size: 150%; margin-top: 100px; margin-right: 40px; margin-left: 40px;}
 	img{display:block; margin:auto; margin-top: 40px; width:auto;}
 	button{display:block; margin:auto;}
+	div.fixed {
+		position: fixed;
+		bottom: 15px;
+		right: 15px;
+		width: auto;
+		border: px solid #ffe6e6;
+	}
 </style>
-
-<head><title> Take Off, Hoser</title></head>
+<head><title>Welcome/Bienvenue</title></head>
 <p><img src="bobANDdoug.jpg" alt="Hi from Bob and Doug McKenzie" style="auto" align="middle"></p>
-<button onclick="generate()">Hosers!</button>
+<button onclick="generate()">Take Off, Pal</button>
+<div class="fixed"><a href="https://www.youtube.com/watch?v=ssCZWBtwUTI"><img alt="Bob and Doug" src= "youtube-shot.jpg" width="100px" height="75px" ></a></div>
