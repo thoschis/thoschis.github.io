@@ -6,7 +6,7 @@ var markov = new MarkovGeneratorWord(2,50)
 $.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
-$.get("thebigsleep.txt", function(text) {
+$.get("bobanddoug.txt", function(text) {
      markov.feed(text);
 });
 function generate(){
