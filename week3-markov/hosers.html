@@ -8,20 +8,17 @@ $.get("bobanddoug.txt", function(text) {
 });
 function generate(){
 	var t = markov.generate()
-	$('h1').text(t);
+	$('p').text(t);
 }
 </script>
 
 <style>
 	@font-face {font-family: andale; src: url(andale-mono.ttf);}
-	h1{font-family: andale, serif; font-size: 150%; margin:40px, 20px, 0, 20px;}
+	p{font-family: andale, serif; font-size: 150%; margin:100px, 200px, 0, 200px;}
 	img{display:block; margin:auto; margin-top: 40px; width:auto;}
 	button{display:block; margin:auto;}
-
 </style>
 
-
-
 <head><title> Take Off, Hoser</title></head>
-<h1><img src="bobANDdoug.jpg" alt="Hi from Bob and Doug McKenzie" style="auto" align="middle"></h1>
-<button onclick="generate()">Generate</button>
+<p><img src="bobANDdoug.jpg" alt="Hi from Bob and Doug McKenzie" style="auto" align="middle"></p>
+<button onclick="generate()">Hosers!</button>
