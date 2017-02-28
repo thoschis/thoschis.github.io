@@ -8,10 +8,7 @@
 		</style>
 	</head>
 	
-	<body>
-		<p>Another Bob and Doug Gen Test:</p>
-		<button onclick="generate()">Fingers Crossed</button>		
-		<script>
+	<script>
 			var txt;
 			var markov = new MarkovGeneratorWord(5,50)
 				$.get("sherlock.txt", function(text) {
@@ -25,6 +22,11 @@
 				$('h1').text(t);
 			}				
 		</script>
+	
+	<body>
+		<p>Another Bob and Doug Gen Test:</p>
+		<button onclick="generate()">Fingers Crossed</button>		
+		
 	</body>
 </html>
 
