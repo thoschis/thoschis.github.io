@@ -6,6 +6,9 @@ var markov = new MarkovGeneratorWord(2,10)
 $.get("shel-poems.txt", function(text) {
      markov.feed(text);
 });
+$.get("shel-poems.txt", function(text) {
+     markov.feed(text);
+});
 function generate(){
 	var t = markov.generate()
 	$('body').append("<p>"+t+"</p>")
@@ -60,7 +63,7 @@ function generate(){
 	button{display:block; margin-bottom: 200px; margin-right: 200px}
 </style>
 
-
+<head><title>Tall Tales</title></head>
 <p></p>
 
 <button onclick="generate()">Shel!</button>		
