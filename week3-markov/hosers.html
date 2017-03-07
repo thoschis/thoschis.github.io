@@ -8,6 +8,7 @@ $.get("bobanddoug.txt", function(text) {
 });
 function generate(){
 	var t = markov.generate()
+	t.split(' ').slice(0,-1).join(" ")
 	$('p').text(t);
 }
 </script>
