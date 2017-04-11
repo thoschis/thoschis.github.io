@@ -2,18 +2,15 @@
     font-family: Terrazzo;
     src: url(terrazzo.otf)
 }
-
 body {
     font-family: "Terrazzo", "monofspaced";
     color: red;
-    word-spacing: -1px
+    word-spacing: -1px;
 }
-
 a {
     color: red;
     cursor: url(/pointer-finger.png), auto;
 }
-
 section {
     margin: 0;
     padding: 0;
@@ -22,12 +19,10 @@ section {
     font: inherit;
     vertical-align: baseline;
 }
-
 ul {
-        display: block;
+    display: block;
     list-style-type: none;
 }
-
 li {
     margin: 0;
     padding: 0;
@@ -36,9 +31,8 @@ li {
     font: inherit;
     vertical-align: baseline;
 }
-
 .sidebar {
-    padding: 35px;
+    padding: 0px;
     border-right: 2px solid red;
     text-align: center;
     display: inline-block;
@@ -46,16 +40,17 @@ li {
     position: fixed;
     left: 0;
     top: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     width: 322px;
     min-height: 500px;
     background-color: #fff;
-    z-index: 2
-        
+    z-index: 2;
     }
-
+.sidebar-inner {
+    padding: 35px 35px 30px 35px;
+    border-bottom: 2px solid red;
+    position: relative;
+    z-index: 1
+}
 .primary-nav {
     font-family: 'Terrazzo';
     font-weight: bold;
@@ -66,32 +61,106 @@ li {
     left: 0;
     right: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%) translateX(-5%);
-    -moz-transform: translateY(-50%) translateX(-5%);
-    -ms-transform: translateY(-50%) translateX(-5%);
-    -o-transform: translateY(-50%) translateX(-5%);
     transform: translateY(-50%) translateX(-5%);
     margin: auto;
     font-size: 46px;
     line-height: 47.5px;
 }
-
 .primary-nav a {
     text-decoration: none;
     color: red;
 }
-
-.primary-nav a:hover,
+primary-nav a:hover,
 .primary-nav a.active {
     display: inline-block;
-    -webkit-transform: rotate(-180deg) translateX(-0.09em);
-    -moz-transform: rotate(-180deg) translateX(0.09em);
-    -o-transform: rotate(-180deg) translateX(0.09em);
     transform: rotate(-180deg) translateX(0.09em);
 }
-
-.cart {
-    font-family: ''
-    font
-        
+.cart a {
+    font-family: 'Times';
+    text-decoration: none;
+}
+.content {
+    margin-left: 322px;
+    padding: 35px;
+    padding-right: 47px;
+    padding-bottom: 0;
+    position: relative;   
+}
+.scrollable {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+}
+.product {
+    width: 100%;
+    height: auto;
+    left: 0;
+    top: 35px
+}
+.product-header {
+    width: 100%;
+    height: 100%;
+    font-family: courier;
+    color: navy;
+    font-size: 150%;
+    position: absolute
+}
+.product-header a {
+    position: absolute;
+    color: navy;
+    z-index: 3
+}
+.name {
+    position: absolute;
+    top: 25px;
+    left: 35px
+}
+.product-cart {
+    position: absolute;
+    top: 25px;
+    right: 120px
+}
+.info {
+    position: absolute;
+    bottom: 60px;
+    left: 35px
+}
+.price {
+    position: absolute;
+    bottom: 35px;
+    right: 120px
+}
+.slider{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.img-slide {
+    max-width: 100%;
+    height: auto;
+    left: 0;  
+}
+.button{
+    position: absolute;
+    border: none;
+    opacity: 0;
+    z-index: 2
+}
+.next {
+    width: 50%;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    cursor: url(next.png), pointer
+}
+.prev {
+    width: 50%;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    cursor: url(prev.png), pointer
 }
