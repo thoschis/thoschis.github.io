@@ -11,7 +11,7 @@ body {
 
 a {
     color: red;
-    cursor: url('pointer-finger.png'), auto;
+    cursor: url(/pointer-finger.png), auto;
 }
 
 section {
