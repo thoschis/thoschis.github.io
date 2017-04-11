@@ -1,0 +1,74 @@
+    @font-face {
+    font-family: Terrazzo;
+    src: url(terrazzo.otf)
+}
+
+body {
+    font-family: "Terrazzo", "monofspaced";
+    color: red;
+    word-spacing: -1px
+}
+
+a {
+    color: red;
+    cursor: url('pointer-finger.svg'), default;
+}
+
+section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+ul {
+        display: block;
+    list-style-type: none;
+}
+
+.sidebar {
+    padding: 35px;
+    border-right: 2px solid red;
+    text-align: center;
+    display: inline-block;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 322px;
+    min-height: 500px;
+    background-color: #fff;
+    z-index: 2
+        
+    }
+
+.primary-nav {
+    font-family: 'Terrazzo';
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: condensed;
+    word-spacing: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin: auto;
+    font-size: 40px;
+    line-height: 47.5px;
+}
+
+.primary-nav a {
+    text-decoration: none;
+    color: red;
+    
+}
