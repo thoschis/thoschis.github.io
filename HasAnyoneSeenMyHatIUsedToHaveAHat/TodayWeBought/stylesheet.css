@@ -60,7 +60,7 @@ li {
     position: absolute;
     left: 0;
     right: 0;
-    top: 50%;
+    top: 45%;
     transform: translateY(-50%) translateX(-5%);
     margin: auto;
     font-size: 46px;
@@ -80,8 +80,22 @@ li {
 }
 .cart a {
     font-family: 'Courier';
-    text-decoration: underline;
-    letter-spacing: 1px
+    text-decoration: none;
+    letter-spacing: 1px;
+    border-bottom: 1px solid;
+    cursor: pointer
+}
+.secondary-nav {
+    font-family: 'Courier';
+    border-bottom: 1px solid;
+    position: fixed;
+    bottom: 55px;
+    left: 65px
+}
+
+.secondary-nav a {
+    text-decoration: none;
+    cursor: pointer
 }
 .content {
     margin-left: 322px;
@@ -156,6 +170,7 @@ li {
     z-index: 2
 }
 .next {
+    position: absolute;
     width: 45%;
     height: auto;
     right: 47px;
@@ -164,6 +179,7 @@ li {
     cursor: -webkit-image-set(url(../icons/next.png)1x,url(../icons/next@2x.png)2x)48 44,auto;
 }
 .prev {
+    position: absolute;
     width: 48%;
     height: auto;
     left: 35px;
