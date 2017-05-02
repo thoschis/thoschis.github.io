@@ -341,6 +341,14 @@ strong {
     text-align: left;
 }
 
+.about-text-container {
+    color: lightgrey;
+}
+
+.about-text-container:hover {
+    color: black;   
+}
+
 .about-caption {
     font-size: 0;
     text-align: left;
