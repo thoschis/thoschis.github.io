@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+       <title>Arne Bengels wants to garden so just let him</title>
+        <meta name="description" content="Arne Bengels has eyes for landscape architecture - sounds grand, doesn't it? - but can't seem to shake the trappings of a very promising graphic design career. Impressive, all of it, but he hasn't written poetry since the 8th grade, he struggles to connect with his 13-year-old red tabby and Tinder's .js matchmakers simply can't hit the same performance indicators Grindr's can. Pesky admires Reed Hilderbrand and would jump on an opportunity to connect."> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        <link rel="stylesheet" href="lib/home.css">
+        <link rel="icon" type="image/png" href="icons/favicon.ico">
+        <script src="lib/home.js"></script>
+    </head>
+    <body>
+        <div class="page">
+            <div class="back">
+                <div class="backdrop"></div>
+            </div>
+            <div class="out-flow">
+                <div class="index">
+                    <div class="index-title">
+                        <p class="index-title-text">
+                            We are an arts and culture driven design studio based in/We are a creative collaborative that uses digital, social, adverti/Our team specializes in multiple discipl/sign is characterized by a multidisciplinary appr/brand the missions of organ/<font color='1AAF65'>We plant gardens.</font>
+                        </p>
+                    </div>
+                </div>
+                <div class="about padded">
+                    <div class="grid">
+                        <div class="about-left grid-6">
+                            <p class="about-text-container">All of the squares are a part of Savannah's historic district and fall within an area of less than one half square mile. The five squares along Bull Street—Monterey, Madison, Chippewa, Wright, and Johnson—were intended to be grand monument spaces and have been called Savannah's "Crown Jewels." Many of the other squares were designed more simply as commons or parks, although most serve as memorials as well. Architect John Massengale has called Savannah's city plan "the most intelligent grid in America, perhaps the world", and Edmund Bacon wrote that "it remains as one of the finest diagrams for city organization and growth in existence."</p>
+                        </div>
+                        <div class="about-right">
+                            <div class="about-image-container">
+                                <img class="about-image" src="imgs/home/work-expands.jpg" alt="">
+                                <div  class="about-caption">
+                                    <div class="about-caption-block">
+                                        <p><strong>Graphic Designer</strong></p>
+                                        <p><a href="https://www.gs.com">Dmitry Kovalev</a></p>
+                                    </div>
+                                    <div class="about-caption-block">
+                                        <p><strong><font color='1AAF65'>Landscape Designer</font></strong></p>
+                                        <p><a href="https://www.evergreen.ca/get-involved/evergreen-brick-works/"><font color='1AAF65'>Denis Kovalev</font></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content">
+                <div class="content-upper">
+                    <div class="padded container-limited">
+                        <div class="list">
+                            <font color='6AAF65'>
+                            <p>Unwise - </p>
+                            <p>Can't ambush</p>
+                            <p>a shrubbery.</p>
+                            <p>But Illustration:</p>
+                            <p></p>
+                            <p>Not for me.</p>
+                            <p></p>
+                            <p>Mobile design</p>
+                            <p>User interface</p>
+                            <p>User experience</p>
+                            <p>Development</p>
+                            <p>Brand identity</p>
+                            <p>I'd just like</p>
+                            <p>to do the weeds</p>
+                            <p>in Pooh Forest</p>
+                            <p>Me, Owl, Tigger,</p>
+                            <p>Piglet, </p>
+                            <p>simple design</p>
+                            </font>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-lower">
+                    <div class="content-projects content-padded-block">
+                        <div class="padded">
+                            <h3>in the oven</h3>
+                            <div class="list">
+                                <p><a taget="_blank" href="http://sgustok.org">Sgustok Magazine</a></p>
+                                <p><a taget="_blank" href="http://hay.dk/">HAY Design</a></p>
+                                <p><a taget="_blank" href="https://itunes.apple.com/ca/playlist/exhaustive-background-collection/idpl.75f933f9a9734c2bbfb1edae2aeef94c">Vespa Music</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-partners content-padded-block">
+                        <div class="padded">
+                            <h3>I'd like to work with</h3>
+                            <div class="list content-partners-hover">
+                                <div class="content-partners-images"></div>
+                                <p><a taget="_blank" href="http://www.reasonpartners.com/">Reason</a></p>
+                                <p><a taget="_blank" href="http://www.claudecormier.com/en/">Claude Cormier</a></p>
+                                <p><a taget="_blank" href="http://www.urbanstrategies.com/">Urban Strategies</a></p>
+                                <p><a taget="_blank" href="http://kidstudio.co/">Kid. Studio</a></p>
+                                <p><a taget="_blank" href="http://www.montauksofa.com/">Montauk</a></p>
+                                <p><a taget="_blank" href="http://www.partisanprojects.com/about/">Partisans</a></p>
+                                <p><a taget="_blank" href="http://www.itsnicethat.com/">It's Nice That</a></p>
+                                <p><a taget="_blank" href="http://www.xxix.co/">Twenty-Nine</a></p>
+                                <p>et al.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-follow content-padded-block">
+                        <div class="padded">
+                            <h3>me on the web</h3>
+                            <div class="list">
+                                <p><a href="https://www.instagram.com/arnebengels">Instagram,</a></p>
+                                <p><a href="https://www.linkedin.com/in/arne-bengels-636286140">LinkedIn</a></p>
+                                <p><a href="ThisIS!">and here, too</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="padded">
+                    <div class="footer-left">
+                        <a target="_blank" href="ThisIS!" class="footer-link-lower">
+                            <span>Arne Bengels</span>
+                        </a>
+                    </div>
+                    <div class="footer-right">
+                        <a href="Selected-Works" class="footer-link-lower">
+                            <span>Selected Works</span>
+                        </a>
+                        <a href="mailto:thomas_chisholm@brown.edu" class="footer-link-upper">
+                            <span>CONTACT</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="loading">
+                <img src="img/logo.svg" alt="">
+            </div>
+        </div>
+
+    </body>
+</html>

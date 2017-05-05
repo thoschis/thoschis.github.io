@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    
+    <title>Selected Works</title>
+       
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link href="/style/s-works-normalize.css" rel="stylesheet">
+    <link href="/style/s-works.css" rel="stylesheet">
+    
+    
+</head>
+
+<body>
+
+<div class="pane left-pane bg-pane off-left">
+	<div class="pane-content">
+    	        <div class="text-fill">
+                   
+            <div id="scene-1_text">
+            	<p>SCENE 1;</p>
+                <p>I'd like to see more of him. He is a man and He rides a silver horse between the cars and they spell His name with a capital 'H'. I do too. He leaves the road behind to weave through tufts of Bluestem grass and the change of direction affords a change of pace. Can machines feel envy? </p>
+            </div>
+        
+            <div id="scene-2_text">
+            	<p>SCENE 2;</p>
+                <p>I'd like to see more of him. The camera pans quickly left to right. It's probably mounted square to the direction of a moving car. He weaves through traffic--silver horse--but repeatedly falls left, out of the frame. He can't keep pace. He jumps the guardrail, away from us, falling left again, but he's in the Bluestem and soon overtakes us. </p>
+            </div>
+            
+            <div id="scene-3_text">
+            	<p>SCENE 3;</p>
+                <p>I'd like to see more of Woody Allen. Put him in the jungle with Diane Keaton. Absurdity, pastiche, Irony? Allen laments ever idolizing the man on the silver horse. I don't want to see any more of him, either. Maybe people do, because he looks free. But of course Allen doesn't. 
+                </p>
+            </div>
+            
+            <div id="scene-4_text">
+            	<p>SCENE 4;</p>
+                <p>How to spot a Starling?<br> 
+        		Find a garden / Make a garden<br>
+        		Yeats found a garden<br>
+                Then found he couldn't find it any further<br>
+                Finding is binary<br>
+                Make a garden</p>
+        	</div>
+            
+            <!-- Extra text!!
+            
+            <div id="scene-5_text">
+            	<p>SCENE 5;</p>
+                <p>We never see reality itself. We see reality on the silver screen. We see it on the billboards over Sunset. There wasn’t reality before Hollywood. There wasn’t you or me before Lucille Ball fell asleep and had a dream. In the jungle, Jung prepares the Lone Ranger for a journey. “Technical terms will roll off your tongue.”</p>
+            </div>
+            
+            <div id="scene-6_text">
+            	<p>SCENE 6;</p>
+                <p>Each mortal thing does one thing and the same:<br>
+                Deals out that being indoors each one dwells;<br>
+                Selves—goes itself; <i>myself</i> it speaks and spells,<br>
+                Crying, <i>What I do is me: for that I came</i>.</p>
+        	</div>
+            
+            <div id="scene-7_text">
+            	<p>SCENE 7;</p>
+                <p>In the last century, the longing to be famous was most intense. Now we are all famous. Our cameras are able to look in two directions at once. We are always before ourselves, mapping a path to an image we had once called—“myself.” Every day psychos directing traffic to a stand still. There’s a jungle in my stomach. Some day we may say to ourselves.</p>
+            </div> 
+            
+            <div id="nose-pressed-up-against-the-glass_text">
+            	<p class="essay-title">Nose Pressed Up  Against the Glass: Dustin Yellin’s  Metaphors of Opacity and Transparency</p>
+                <p class="essay-byline">Kenneth Goldsmith</p>
+            </div>  
+            
+            <div id="ted-talk_text">
+            	<p class="essay-title">TED Talk</p>
+                <p class="essay-byline">Filmed Oct 2014</p>
+            </div>
+            
+            -->                                                                             
+            
+        </div>                
+    </div>
+</div>
+
+<div class="pane right-pane off-right-mobile">
+	 	<div class="pane-content">   
+        
+        <ul class="main-nav-list">
+        	<li class="mobile-only"><a href="../index.html">Arne Bengels</a></li>
+            <li><a href="../ThisIS!/index.html">About</a></li>
+            <li><a href="../TodayWeBought/index.html">Store</a></li>
+            <li><a href="//instagram.com/arnebengels">Instagram</a></li>
+            <li><a href="mailto:thomas_chisholm@brown.edu">Contact</a></li>
+        </ul>
+        
+        <ul id="directory" class="directory-list">
+            
+            <li>
+                <a href="http://thecreatorsproject.vice.com/blog/we-talked-to-dustin-yellin-about-shredding-10k" target="_blank" id="shredding-10ks">
+                    <div class="listing">
+                        <div class="listing-name">Shredding 10k</div>
+                        <div class="listing-info">2015</div>
+                    </div>            
+                </a>
+            </li>                           
+            <li>
+                <a href="//dustinyellin.com/works/caves/" id="caves">
+                    <div class="listing">
+                        <div class="listing-name">Caves</div>
+                        <div class="listing-info">&ndash;</div>
+                    </div>            
+                </a>
+            </li>
+            <li>
+                <a href="//dustinyellin.com/works/psychogeographies/" id="psychogeographies">
+                    <div class="listing">
+                        <div class="listing-name">Psychogeographies</div>
+                        <div class="listing-info">&ndash;</div>
+                    </div>            
+                </a>
+            </li>
+            <li>
+                <a href="//dustinyellin.com/works/triptych/" id="triptych">
+                    <div class="listing">
+                        <div class="listing-name">The Triptych</div>
+                        <div class="listing-info">2012</div>
+                    </div>            
+                </a>
+            </li> 
+            <li>
+                <a href="//dustinyellin.com/works/cities/" id="cities">
+                    <div class="listing">
+                        <div class="listing-name">Cities</div>
+                        <div class="listing-info">&ndash;</div>
+                    </div>            
+                </a>
+            </li> 
+            <li>
+                <a href="//dustinyellin.com/works/slides/" id="slides">
+                    <div class="listing">
+                        <div class="listing-name">Slides</div>
+                        <div class="listing-info">&ndash;</div>
+                    </div>            
+                </a>
+            </li>
+            <li>
+                <a href="//dustinyellin.com/works/til-human-voices-wake-us/" id="til-human-voices-wake-us">
+                    <div class="listing">
+                        <div class="listing-name">Til Human Voices Wake Us</div>
+                        <div class="listing-info">2012</div>
+                    </div>            
+                </a>
+            </li>                                                    
+            <li>
+                <a href="//dustinyellin.com/works/crack-up/" id="crack-up">
+                    <div class="listing">
+                        <div class="listing-name">The Crack-Up</div>
+                        <div class="listing-info">1999</div>
+                    </div>            
+                </a>
+            </li>
+            <li>
+                <a href="//dustinyellin.com/works/ant-farms/" id="ant-farms">
+                    <div class="listing">
+                        <div class="listing-name">Ant Farms</div>
+                        <div class="listing-info">&ndash;</div>
+                    </div>            
+                </a>
+            </li>
+            <li>
+                <a href="//dustinyellin.com/works/ethnographs/" id="ethnographs">
+                    <div class="listing">
+                        <div class="listing-name">Ethnographs</div>
+                        <div class="listing-info">&ndash;</div>
+                    </div>            
+                </a>
+            </li>                         
+                       
+            <!-- essays -->
+            <li class="text-entry">
+                <a href="//dustinyellin.com/essays/nose-pressed-up-against-the-glass.php" id="nose-pressed-up-against-the-glass">
+                    <p>Nose Pressed Up Against the Glass</p>           
+                </a>
+            </li> 
+            
+            <!-- exhibits -->
+            <li>
+                <a href="//dustinyellin.com/exhibits/2015_nyc-ballet-lincoln-center/" id="exhibit_2015-02_lincoln-center">
+                    <div class="listing">
+                        <div class="listing-name">New York City Ballet, Lincoln Center</div>
+                        <div class="listing-info">2015</div>
+                    </div>            
+                </a>
+            </li>
+            
+            <!-- misc 
+            <li class="text-entry">
+                <a href="https://www.ted.com/talks/dustin_yellin_a_journey_through_the_mind_of_an_artist#t-147028" id="ted-talk" target="_blank">
+                    <p>TED Talk</p>           
+                </a>
+            </li>   -->                           
+            
+            <!-- text entries -->
+            <li class="text-entry poem-entry">
+                <a href="#" id="scene-1">              
+                	<p>Scene 1</p>                              
+                </a>
+            </li>
+            <li class="text-entry poem-entry">
+                <a href="#" id="scene-2">              
+                	<p>Scene 2</p>                              
+                </a>
+            </li>
+            <li class="text-entry poem-entry">
+                <a href="#" id="scene-3">              
+                	<p>Scene 3</p>                              
+                </a>
+            </li>
+            <li class="text-entry poem-entry">
+                <a href="#" id="scene-4">              
+                	<p>Scene 4</p>                              
+                </a>
+            </li>
+    	</ul>                                                                          
+                     
+	</div>
+
+    <div id="footer" class="footer-directory">
+        <div class="copyright">&copy; 2017 Arne Bengels. All Rights Reserved</div>
+    </div></div>
+
+<div class="work-pane">
+	    <div class="work-header-wrap" id="site-header">
+        <div class="work-header">
+            <h1><a href="../index.html">Arne Bengels</a></h1>
+            <a href="#" id="menu-toggle">
+                &larr;
+            </a>
+        </div>
+    </div>
+
+    <nav class="navbar" role="navigation" id="nav_mobile">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dy-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">Arne Bengels</a>
+        </div>
+        <div class="collapse navbar-collapse" id="dy-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="../ThisIS!/index.html">About</a></li>
+            <li><a href="../TodayWeBought/index.html">Store</a></li>
+            <li><a href="https://instagram.com/arnebengels">Instagram</a></li>
+            <li><a href="../contact/">Contact</a></li>
+            </ul>          
+        </div>  
+      </div>
+    </nav>    <!-- page content -->	
+    
+    <div class="work-pane-content">
+    	
+        <section class="title">
+        	<h2>Slides</h2>
+        </section>
+
+        <section id="wisdom_tooth">
+            <div class="igheader">
+                <div class="igheader-content">
+            
+                    <div class="listing">
+                        <div class="listing-name">Wisdom Tooth</div>
+                        <div class="listing-specs"></div>
+                        <div class="listing-date">2014</div>
+                    </div>            
+             
+                </div>
+            </div>
+            <img src="../../img/works/slides/wisdom-tooth.jpg">
+        </section>
+        
+        <section id="schwitters kiss">
+            <div class="igheader">
+                <div class="igheader-content">
+            
+                    <div class="listing">
+                        <div class="listing-name">Schwitter's Kiss</div>
+                        <div class="listing-specs"></div>
+                        <div class="listing-date">2013</div>
+                    </div>              
+             
+                </div>
+            </div>
+            <img src="../../img/works/slides/schwitters-kiss.jpg">
+        </section>  
+        
+       <section id="esse">
+            <div class="igheader">
+                <div class="igheader-content">
+            
+                    <div class="listing">
+                        <div class="listing-name">Esse</div>
+                        <div class="listing-specs"></div>
+                        <div class="listing-date">2013</div>
+                    </div>             
+             
+                </div>
+            </div>
+            <img src="../../img/works/slides/esse.jpg">
+        </section>   
+                    
+    </div>
+</div>
+
+<!-- scripts -->
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<!-- slimscroll -->
+<!--<script src="../js/jquery.slimscroll.min.js"></script>-->
+<!--<script type="text/javascript">
+	$(document).ready(function(){
+		$('.pane').slimScroll({
+			height: '100vh'
+		});
+	});
+</script>-->
+
+<script type="text/javascript">
+	$(document).ready(function(){
+	// toggles
+		
+		// directory
+		$('#directory a').mouseenter(function(){$( '.left-pane' ).removeClass( 'off-left' );});
+		$('#directory a').mouseleave(function(){$('.left-pane').addClass( 'off-left' );});
+		$('#directory').mouseenter(function(){$('.bg-pane').addClass( 'bg-black' );});
+		$('#directory').mouseleave(function(){$('.bg-pane').removeClass( 'bg-black' );});
+	
+		
+		// toggle mobile menu
+		//$( "#menu-toggle" ).click(function(){$( '.right-pane' ).removeClass( 'off-right-mobile' );});
+		//$( "#menu-close" ).click(function(){$( '.right-pane' ).addClass( 'off-right-mobile' );});	
+		
+		// listing interactions
+		$('#chessboards').mouseenter(function(){$( '.bg-pane' ).addClass( 'chessboards' );});
+		$('#chessboards').mouseleave(function(){$('.bg-pane').removeClass( 'chessboards' );});
+		$('#dustin-yellin-shreds-10k').mouseenter(function(){$( '.bg-pane' ).addClass( 'dustin-yellin-shreds-10k' );});
+		$('#dustin-yellin-shreds-10k').mouseleave(function(){$('.bg-pane').removeClass( 'dustin-yellin-shreds-10k' );});	
+		$('#elements').mouseenter(function(){$( '.bg-pane' ).addClass( 'elements' );});
+		$('#elements').mouseleave(function(){$('.bg-pane').removeClass( 'elements' );});	
+		$('#psychogeographies').mouseenter(function(){$( '.bg-pane' ).addClass( 'psychogeographies' );});
+		$('#psychogeographies').mouseleave(function(){$('.bg-pane').removeClass( 'psychogeographies' );});
+		$('#til-human-voices-wake-us').mouseenter(function(){$( '.bg-pane' ).addClass( 'til-human-voices-wake-us' );});
+		$('#til-human-voices-wake-us').mouseleave(function(){$('.bg-pane').removeClass( 'til-human-voices-wake-us' );});
+		$('#trees').mouseenter(function(){$( '.bg-pane' ).addClass( 'trees' );});
+		$('#trees').mouseleave(function(){$('.bg-pane').removeClass( 'trees' );});		
+		$('#caves').mouseenter(function(){$( '.bg-pane' ).addClass( 'caves' );});
+		$('#caves').mouseleave(function(){$('.bg-pane').removeClass( 'caves' );});	
+		$('#exhibit_2015-02_lincoln-center').mouseenter(function(){$( '.bg-pane' ).addClass( 'exhibit_2015-02_lincoln-center' );});
+		$('#exhibit_2015-02_lincoln-center').mouseleave(function(){$('.bg-pane').removeClass( 'exhibit_2015-02_lincoln-center' );});	
+		$('#triptych').mouseenter(function(){$( '.bg-pane' ).addClass( 'triptych' );});
+		$('#triptych').mouseleave(function(){$('.bg-pane').removeClass( 'triptych' );});
+		$('#cities').mouseenter(function(){$( '.bg-pane' ).addClass( 'cities' );});
+		$('#cities').mouseleave(function(){$('.bg-pane').removeClass( 'cities' );});	
+		$('#crack-up').mouseenter(function(){$( '.bg-pane' ).addClass( 'crack-up' );});
+		$('#crack-up').mouseleave(function(){$('.bg-pane').removeClass( 'crack-up' );});	
+		$('#slides').mouseenter(function(){$( '.bg-pane' ).addClass( 'slides' );});
+		$('#slides').mouseleave(function(){$('.bg-pane').removeClass( 'slides' );});
+		$('#ant-farms').mouseenter(function(){$( '.bg-pane' ).addClass( 'ant-farms' );});
+		$('#ant-farms').mouseleave(function(){$('.bg-pane').removeClass( 'ant-farms' );});
+		$('#ethnographs').mouseenter(function(){$( '.bg-pane' ).addClass( 'ethnographs' );});
+		$('#ethnographs').mouseleave(function(){$('.bg-pane').removeClass( 'ethnographs' );});					
+		
+		// listing interactions: text fill					
+		//$('.text-entry').mouseenter(function(){$('.left-pane').addClass( 'bg-black' );});
+		//$('.text-entry').mouseleave(function(){$('.left-pane').removeClass( 'bg-black' );});
+		$('#scene-1').mouseenter(function(){$('#scene-1_text').addClass( 'text-fill-active' );});
+		$('#scene-1').mouseleave(function(){$('#scene-1_text').removeClass( 'text-fill-active' );});
+		$('#scene-2').mouseenter(function(){$('#scene-2_text').addClass( 'text-fill-active' );});
+		$('#scene-2').mouseleave(function(){$('#scene-2_text').removeClass( 'text-fill-active' );});	
+		$('#scene-3').mouseenter(function(){$('#scene-3_text').addClass( 'text-fill-active' );});
+		$('#scene-3').mouseleave(function(){$('#scene-3_text').removeClass( 'text-fill-active' );});
+		$('#scene-4').mouseenter(function(){$('#scene-4_text').addClass( 'text-fill-active' );});
+		$('#scene-4').mouseleave(function(){$('#scene-4_text').removeClass( 'text-fill-active' );});
+		$('#scene-5').mouseenter(function(){$('#scene-5_text').addClass( 'text-fill-active' );});
+		$('#scene-5').mouseleave(function(){$('#scene-5_text').removeClass( 'text-fill-active' );});
+		$('#scene-6').mouseenter(function(){$('#scene-6_text').addClass( 'text-fill-active' );});
+		$('#scene-6').mouseleave(function(){$('#scene-6_text').removeClass( 'text-fill-active' );});
+		$('#scene-7').mouseenter(function(){$('#scene-7_text').addClass( 'text-fill-active' );});
+		$('#scene-7').mouseleave(function(){$('#scene-7_text').removeClass( 'text-fill-active' );});
+		$('#nose-pressed-up-against-the-glass').mouseenter(function(){$('#nose-pressed-up-against-the-glass_text').addClass( 'text-fill-active' );});
+		$('#nose-pressed-up-against-the-glass').mouseleave(function(){$('#nose-pressed-up-against-the-glass_text').removeClass( 'text-fill-active' );});	
+		$('#ted-talk').mouseenter(function(){$('#ted-talk_text').addClass( 'text-fill-active' );});
+		$('#ted-talk').mouseleave(function(){$('#ted-talk_text').removeClass( 'text-fill-active' );});							
+	});
+</script>
+<!-- randomize -->
+<!--
+<script type="text/javascript">
+	(function($){
+ 
+    $.fn.shuffle = function() {
+ 
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+           });
+ 
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+ 
+        return $(shuffled);
+ 
+    };
+ 
+})(jQuery);
+</script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#directory li').shuffle();
+	});
+</script>
+-->
+</body>
+</html>

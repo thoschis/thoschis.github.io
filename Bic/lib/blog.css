@@ -1,0 +1,150 @@
+.drag {
+    position: relative;
+    cursor: -webkit-image-set(url(icons/pointer-finger.png)1x,url(icons/pointer-finger@2x.png)2x)54 8,auto;
+}
+
+body,
+td,
+th {
+    background-color: #FFFFFF;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    vertical-align: baseline;
+    word-spacing: 0px;
+}
+
+a {
+    color: inherit;
+}
+
+#menu1,
+#menu2,
+#menu3 {
+    margin-left: 0em;
+    top: 15px;
+    margin-right: 7em;
+   
+}
+
+#menu2 {
+    float: center;
+}
+
+#menu3 {
+    float: left;
+}
+
+#menu4 {
+    position: absolute;
+    font-size: 30px;
+    line-height: 14px;
+    bottom: 15px;
+    right: 15px
+}
+#apDiv00 {
+    position: absolute;
+    z-index: 1;
+    padding-top: 80px;
+    margin-left: 100px;
+}
+#apDiv1 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    z-index: 2;
+    left: 240px;
+    top: 80px;   
+}
+#apDiv2 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 9;
+    left: 738px;
+    top: 200px;
+}
+#apDiv3 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 7;
+    left: 430px;
+    top: 380px;
+}
+#apDiv4 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 5;
+    left: 85px;
+    top: 325px;
+}
+#apDiv5 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 6;
+    left: 0px;
+    top: 275px;
+}
+#apDiv6 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 11;
+    right: 366px;
+    top: 199px;
+}
+#apDiv7 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 8;
+    right: 250px;
+    top: -45px;
+}
+#apDiv8 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 3;
+    left: 185px;
+    top: 125px;
+}
+#apDiv9 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 12;
+    left: 300px;
+    bottom: 325px;
+}
+#apDiv10 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 7;
+    right: 100px;
+    top: 100px;
+}
+#apDiv11 {
+    position: absolute;
+    width: 200px;
+    height: 115px;
+    z-index: 6;
+    right: 480px;
+    bottom: 250px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 2px solid;
+    border-bottom-color: #0AAF65;
+    cursor: pointer
+}

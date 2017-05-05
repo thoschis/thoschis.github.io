@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <!--insert xmlns.og data (open graph protocol)-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="icons/favicon.ico" />
+    <title>Ici C'est Arne Bengels and he said that right from the start</title>
+    <link rel="stylesheet" href="lib/blog.css" />
+    <link rel="stylesheet" href="lib/blog-mobile.css" />
+</head>
+
+<body>
+
+    <div id="menu1"> <a href="Selected-Works">Arne Bengels</a></div>
+    <div id="menu2"> <a href="Milk-Money">Tells you how to spend your Milk Money</a></div>
+    <div id="menu3"> <a href="mailto:p_demeulenaere1@brown.edu">arne@bic.dk</a></div>
+    <div id="menu4">Coca-Cola photography by Frederike Helwig </div>
+
+    <div id="apDiv00"><iframe src="Milk-Money" href="Milk-Money" width="1250px" height="400px" frameBorder="0 " scrolling="no " overflow="hidden" draggable="true"></iframe></div>
+
+    <div id="apDiv1"><iframe src="http://www.carmenmarie.net/" href="http://www.carmenmarie.net/" width="650px" height="400px" frameBorder="0" scrolling="no" overflow="hidden" draggable="true"></iframe></div>
+    <div id="apDiv2"><img src="http://anthonyfabre.com/images/Diet-Coke31-2.png" width="300px" height="auto " class="drag" /></div>
+    <div id="apDiv3"><img src="imgs/blog/wegner.jpg" width="420px " height="auto " class="drag" /></div>
+    <div id="apDiv4"><img src="imgs/blog/geigy.jpg" width="200px " height="auto " class="drag" /></div>
+    <div id="apDiv5"><img src="imgs/blog/grid.jpg" width="340px " height="auto " class="drag" /></div>
+    <div id="apDiv6"><img src="imgs/blog/short-grass.png" width="430px " height="auto " class="drag" /></div>
+    <div id="apDiv7"><img src="imgs/blog/swissair.png" width="140px " height="auto " class="drag" /></div>
+    <div id="apDiv8"><img src="imgs/blog/vitruvian_man.png" width="500px " height="auto " class="drag" /></div>
+    <div id="apDiv9"><img src="imgs/blog/pulp-connection.gif" width="auto " height="auto " class="drag" /></div>
+    <div id="apDiv10"><img src="imgs/blog/resume_design.jpg" width="140px " height="auto " class="drag" /></div>
+    <div id="apDiv11"><img src="imgs/blog/dust-heads.png" width="140px " height="auto " class="drag" /></div>
+    
+
+    <script class="jsbin" src="lib/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="lib/blog-drag.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $("#apDiv1")
+                .resizable()
+                .draggable();
+        });
+
+    </script>
+    <script defer src="lib/blog-iframe.js"></script>
+    </body>
+</html>

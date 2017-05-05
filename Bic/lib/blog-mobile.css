@@ -1,0 +1,45 @@
+        @media (max-width: 668px) {
+        * {
+            box-sizing: border-box;
+        }
+        #apDiv1,
+        #apDiv2,
+        #apDiv3,
+        #apDiv4,
+        #apDiv5,
+        #apDiv11 {
+            display: none;
+        }
+        #menu4 {
+            display: none;
+        }
+        #apDiv12 {}
+        #iframe {}
+        img {
+            height: auto;
+        }
+        textarea,
+        table,
+        td,
+        th,
+        code,
+        pre,
+        samp {
+            -webkit-hyphens: auto;
+            -moz-hyphens: auto;
+            hyphens: auto;
+            word-wrap: break-word;
+        }
+        code,
+        pre,
+        samp {
+            white-space: pre-wrap;
+        }
+        .element1,
+        .element2 {
+            float: none;
+            width: auto;
+        }
+        .hide_mobile {
+            display: none !important;
+        }

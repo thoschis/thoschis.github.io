@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--insert xmlns.og data (open graph protocol)-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pesky Bengels has eyes for landscape architecture - sounds grand, doesn't it? - but can't seem to shake the trappings of a very promising graphic design career. Impressive, all of it, but he hasn't written poetry since the 8th grade, he struggles to connect with his 13-year-old red tabby and Tinder's .js matchmakers simply can't hit the same performance indicators Grindr's can. Pesky admires Reed Hilderbrand and would jump on an opportunity to connect.">
+    <link rel="icon" type="image/png" href="icons/favicon.ico">
+    <title>
+        Arne Bengels tells you how to spend your milk money
+    </title>
+    <link rel="stylesheet" type="text/css" href="lib/store.css">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:900|Source+Code+Pro:200" rel="stylesheet">
+
+</head>
+
+<body>
+    <section class="sidebar">
+            <nav class="cart">
+                <a href="/cart">Cart</a>
+
+            </nav>
+        <div class="mobile-nav">
+            <nav class="primary-nav">
+                <ul>
+                    <li><a id="featured works-link" href="/#prints">PRINTS</a></li>
+                    <li><a id="cv-link" href="/#curriculum-vitae">CV</a></li>
+                    <li><a id="sale-items" href="/#web-sale">REDUCED</a></li>
+                </ul>
+            </nav>
+            <nav class="secondary-nav">
+            <ul>
+                <li><a href="ThisIS!">Blog</a></li>
+                <li><a href="Home"">Home</a></li>
+                <li><a href="Selected-Works">Works</a></li>
+                <li><a href="/Feed">Feed</a></li>
+            </ul>
+            </nav>
+        </div>
+    </section>
+    <section class="content">
+        <div class="content-container">
+            <canvas id="header-canvas" width="1050" height="1464" style="width: 525px; height: 732px;"></canvas>
+        </div>
+        <div class="scrollable">
+            <section class="collection">
+                <article class="container">
+                        <button class="button prev" onclick="plusDivs(-1)">&#10094;</button>
+                        <button class="button next" onclick="plusDivs(1)">&#10095;</button>
+                    <div class="slider">
+                        <img class="img-slide" src="products/beatty-plant/plant1.jpg">
+                        <img class="img-slide" src="products/beatty-plant/plant2.jpg">
+                        <img class="img-slide" src="products/beatty-plant/plant3.jpg">
+                        <img class="img-slide" src="products/beatty-plant/plant4.jpg">
+                        <img class="img-slide" src="products/beatty-plant/plant5.jpg">
+                    </div>
+                    <div class="product-text">
+                        <span class="topleft">TU/BE</span>
+                        <a href="#" class="topright">Add to cart</a>
+                        <a href="#" class="bottomleft">Information</a>
+                        <p class="bottomright">$ 25.00</p>
+                        <a href="products/dadada" class="zoom"></a>
+                        <a href="#" class="close-slider"></a>
+                    </div>
+                </article>
+                <article class="container">
+                    <div class="product-text">
+                        <span class="name">Arne Bengels</span>
+                        <a href="#" class="product-cart">Add to cart</a>
+                        <a href="#info" class="info">Information</a>
+                        <p class="price">$40.00</p>
+                        <a href="products/dadada" class="zoom"></a>
+                        <a href="#" class="close-slider"></a>
+                    </div>
+                        <button class="button prev" onclick="plusDivs(-1)">&#10094;</button>
+                        <button class="button next" onclick="plusDivs(1)">&#10095;</button>
+                    <div class="slider">
+                        <img class="img-slide" src="products/julian-dime/1.jpg">
+                        <img class="img-slide" src="products/julian-dime/2.jpg">
+                        <img class="img-slide" src="products/julian-dime/3.jpg">
+                        <img class="img-slide" src="products/julian-dime/4.jpg">
+                    </div>
+                </article>
+            </section>                     
+
+            <script>
+                var slideIndex = 1;
+                showDivs(slideIndex);
+
+                function plusDivs(n) {
+                    showDivs(slideIndex += n);
+                }
+
+                function showDivs(n) {
+                    var i;
+                    var x = document.getElementsByClassName("img-slide");
+                    if (n > x.length) {
+                        slideIndex = 1
+                    }
+                    if (n < 1) {
+                        slideIndex = x.length
+                    }
+                    for (i = 0; i < x.length; i++) {
+                        x[i].style.display = "none";
+                    }
+                    x[slideIndex - 1].style.display = "block";
+                }
+            </script>
+        </div>
+    </section>
+</body>
+</html>

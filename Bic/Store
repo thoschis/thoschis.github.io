@@ -1,0 +1,2003 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="google-site-verification" content="6xLK665v6hEVOI8N412ARAy06qXaOA3zbaNXtveSRn8" />
+    
+    <meta name="description" content="Actual Source is a multi-format publisher that collaborates with contemporary artists and designers to release ltd edition books, fonts, clothing, and objects" />
+    
+    
+    <title>
+    Arne Bengels &ndash; Milk Money
+    </title>
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:900|Source+Code+Pro:200" rel="stylesheet">
+
+    <link rel="shortcut icon" href="icons/favicon.ico" type="ico" />
+    <link rel="stylesheet" href="lib/storefront/list-collections.css" />
+
+<script src="lib/storefront/express-buttons.js" defer="defer" crossorigin="anonymous" integrity="sha256-0YO3SLSKWZKovw++uAVjlgjoubxb7OGPKjJKu7ls/hc="></script>
+
+<link rel="stylesheet" media="all" href="lib/storefront/additional-checkout-buttons.css" />
+    <link href="lib/store-2.css" rel="stylesheet" type="text/css" media="all" />
+
+  <link rel="canonical" href="https://thoschis.github.io/bic/Store" />
+</head>
+  <body class="list-collections-temp">
+
+    <section class="sidebar">
+        <div class="sidebar-inner">
+          <a class="hamburger"></a>
+          <h1 class="mobile-heading"><a href="/"><span class="upside-down">Milk</span> Money</a></h1>
+          <nav class="cart-nav not-empty">
+            <a href="/cart">Cart<span class="cart-link-quantity"> (1)</span><span class="cart-price"> $ 15.00</span></a>
+          </nav>
+      </div>
+      <div class="mobile-nav">
+          <nav class="mobile-content-nav">
+            <a class="search-link" href="#">Search</a>
+            <form class="search" action="/search">
+                <input type="text" name="q" value=""  />
+                <input type="submit" value="" />
+            </form>
+          </nav>
+        <nav class="primary-nav">
+          <ul>
+            
+                <li><a id="featured-link" href="/collections/#featured-anchor">FEATURED</a></li>
+            
+                <li><a id="books-link" href="/collections/#books-anchor">PUBLICATIONS</a></li>
+            
+                <li><a id="clothing-link" href="/collections/#clothing-anchor">CLOTHING</a></li>
+            
+                <li><a id="accessories-link" href="/collections/#accessories-anchor">ACCESSORIES</a></li>
+            
+                <li><a id="objects-link" href="/collections/#objects-anchor">OBJECTS</a></li>
+            
+                <li><a id="prints-link" href="/collections/#prints-anchor">PRINTS</a></li>
+            
+                <li><a id="reduced-link" href="/collections/#reduced-anchor">REDUCED</a></li>
+            
+          </ul>
+        </nav>
+        <nav class="secondary-nav">
+          <ul>
+            
+              
+                <li><a href="Selected-Works">STUDIO</a></li>
+              
+            
+              
+                <li><a href="Home">ABOUT</a></li>
+              
+            
+              
+                  <li><a href="ThisIS!">ABOOT</a></li>
+              
+            
+              
+                <li><a href="/pages/feed">FEED</a></li>
+              
+            
+          </ul>
+        </nav>
+      </div>
+    </section>
+
+    <section class="content">
+      <div class="canvas-container"><canvas id="header-canvas"></canvas></div>
+      <nav class="content-nav">
+        <a class="search-link" href="#">Search</a>
+        <form class="search" action="/search">
+            <input type="text" name="q" value=""  />
+            <input type="submit" value="" />
+        </form>
+      </nav>
+      <div class="scrollable">
+        
+ 
+    
+        <div class="anchor" id="featured-anchor"></div>
+        <h1 class="desktop-title"><span class="upside-down">Milk</span> Money</h1>
+        <section class="shop-section" id="featured">
+  <h1 class="section-title">FEATURED</h1>
+  
+  <header class="section-header">
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="slider">
+      <a class="slider-shop-link" href="#">Shop Now</a>
+      
+      <img src="products/beatty-plant/plant1.jpg" alt="" data-href="/collections/objects/" data-color="000"><img src="products/beatty-plant/plant2.jpg" alt="" data-href="/collections/catalog/" data-color="000"><img src="products/beatty-plant/plant3.jpg" alt="" data-href="/collections/accessories/" data-color="000"><img src="products/beatty-plant/plant4.jpg" alt="" data-href="/collections/accessories/" data-color="000"><img src="products/beatty-plant/plant1.jpg" alt="" data-href="/collections/objects/" data-color="000">
+    </div>
+  </header>
+  
+
+  
+
+    
+      <article class="product" data-prod-url="/products/shoplifters-issue-5">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Shoplifters Issue 5</span>
+      <a href="#" data-available="true" data-prod-id="35792219278" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 25.00</p>
+      <a href="/products/shoplifters-issue-5" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span><span  data-slider-link-id="6">7</span><span  data-slider-link-id="7">8</span><span  data-slider-link-id="8">9</span><span  data-slider-link-id="9">10</span><span  data-slider-link-id="10">11</span><span  data-slider-link-id="11">12</span><span  data-slider-link-id="12">13</span><span  data-slider-link-id="13">14</span><span  data-slider-link-id="14">15</span><span  data-slider-link-id="15">16</span><span  data-slider-link-id="16">17</span><span  data-slider-link-id="17">18</span>/18
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="products/beatty-plant/plant1.jpg">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="products/beatty-plant/plant2.jpg">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="products/beatty-plant/plant3.jpg">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="products/beatty-plant/plant4.jpg">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="products/beatty-plant/plant5.jpg">
+        
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+            <p>tu/be is a method of delivering urban agriculture to the home. The piece is cast from a standard shipping tube. Borrowing from the language and efficiencies of shipping materials, tu/be is made using the packaging material as the dictation of form. tu/be is cast from a standard shipping tube and through the firing process shrinks and fits snugly into the same tube from which it is cast. </p>
+            
+            <p><a href="christopherbeatty.com">Chris Beatty</a> operates out of New York.</p>
+
+            <p>tu/be was featured on <a href="http://www.newschool.edu/parsons/student-work/">Parsons</a> website and <a href="http://inhabitat.com/green-design-highlights-from-parsons-mfa-product-design-thesis-exhibition/christopher-beatty-tu-be/">Inhabitat</a>.</p>
+
+<p>Size: 6x9"<br>Pages: 204<br>Binding: Soft Cover<br>Type: CCTV by Dinamo<br>Designed by Number 04<br>Published by Actual Source<br>N04-008</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/shoplifters-issue-5">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/shoplifters-issue-5">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/shoplifters-issue-5">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/shoplifters-issue-5&media=//cdn.shopify.com/s/files/1/0866/5580/products/AS_SL51.jpg?v=1487570173&description=Shoplifters%20Issue%205%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="0" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="357922192781" value="35792219278">
+              <label class="select-radio-label" for="357922192781">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/hassan-skateboard">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Hassan Rahim Skate Deck</span>
+      <a href="#" data-available="true" data-prod-id="36147446478" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 50.00</p>
+      <a href="/products/hassan-skateboard" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span>/5
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/hassan8.jpg?v=1489733953">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/hassan7.jpg?v=1489733953">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/hassan12.jpg?v=1489733953">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/hassan8_0da34003-52a5-4ad0-9bf8-1592653274c6.jpg?v=1489733953">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/hassan11.jpg?v=1489733953">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>8.5" wide cruiser deck designed by Hassan Rahim<br>3 color (black, silver, salmon) screen print on maple<br>Made in USA</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/hassan-skateboard">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/hassan-skateboard">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/hassan-skateboard">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/hassan-skateboard&media=//cdn.shopify.com/s/files/1/0866/5580/products/hassan8.jpg?v=1489733953&description=Hassan%20Rahim%20Skate%20Deck%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="1" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="361474464782" value="36147446478">
+              <label class="select-radio-label" for="361474464782">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/gift-card">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Actual Source Gift Card</span>
+      <a href="#" data-available="true"  class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 10.00</p>
+      <a href="/products/gift-card" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span>/1
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/giftcard.jpg?v=1482278664">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>Gift card for yourself or others???<br>Good option? </p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/gift-card">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/gift-card">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/gift-card">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/gift-card&media=//cdn.shopify.com/s/files/1/0866/5580/products/giftcard.jpg?v=1482278664&description=Actual%20Source%20Gift%20Card%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="2" class="select-box-label">AMOUNT</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="308777254433" value="30877725443">
+              <label class="select-radio-label" for="308777254433">$10.00</label>
+              
+              <input class="select-radio" type="radio" name="id" id="308777255073" value="30877725507">
+              <label class="select-radio-label" for="308777255073">$25.00</label>
+              
+              <input class="select-radio" type="radio" name="id" id="308777255713" value="30877725571">
+              <label class="select-radio-label" for="308777255713">$50.00</label>
+              
+              <input class="select-radio" type="radio" name="id" id="308777256353" value="30877725635">
+              <label class="select-radio-label" for="308777256353">$100.00</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/shoplifters-issue-4">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Shoplifters Issue 4</span>
+      <a href="#" data-available="true" data-prod-id="28235887107" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 35.00</p>
+      <a href="/products/shoplifters-issue-4" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span><span  data-slider-link-id="6">7</span><span  data-slider-link-id="7">8</span><span  data-slider-link-id="8">9</span><span  data-slider-link-id="9">10</span><span  data-slider-link-id="10">11</span><span  data-slider-link-id="11">12</span><span  data-slider-link-id="12">13</span><span  data-slider-link-id="13">14</span>/14
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_cover.jpg?v=1474399927">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_2.jpg?v=1474399927">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_3.jpg?v=1474399927">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_4.jpg?v=1474399927">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_5.jpg?v=1474399927">
+      
+        <img data-slider-id="5" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_6.jpg?v=1474399927">
+      
+        <img data-slider-id="6" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_7.jpg?v=1474399927">
+      
+        <img data-slider-id="7" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_8.jpg?v=1474399927">
+      
+        <img data-slider-id="8" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_10.jpg?v=1474399927">
+      
+        <img data-slider-id="9" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_11.jpg?v=1474399927">
+      
+        <img data-slider-id="10" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_12.jpg?v=1474399927">
+      
+        <img data-slider-id="11" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_13.jpg?v=1474399927">
+      
+        <img data-slider-id="12" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_14.jpg?v=1474399927">
+      
+        <img data-slider-id="13" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_15.jpg?v=1474399927">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p><span>SHOPLIFTERS is a bi-annual publication featuring the work of contemporary artists, writers, type designers, photographers, illustrators etc,. Shoplifters doesn’t have a single identity, it’s size, paper, typography, and tone changes each time it’s published. Curated and designed by </span><a href="http://number04.com/" title="Number 04">Number 04</a><span>. Published by </span><a href="http://actualsource.org/" title="Actual Source">Actual Source</a><span>.</span></p>
+<p>Issue 4 features the work of: </p>
+<p>—<a href="http://heavyweight.cz/" title="Heavyweight">Heavyweight Foundry</a><br>—<a href="http://wrongstudio.net/" target="_blank" title="Wrong Studio">Wrong Studio</a><br>—<a href="http://www.justinhodgesart.com/" title="Justin Hodges">Justin Hodges</a><br>—<a href="http://www.joelevey.com/" target="_blank">Joel Evey</a><br>—<a href="http://www.isabelseiffert.net/" target="_blank">Isabel Seiffert</a><br>—<a href="http://inaniehoff.de/" target="_blank">Ina Niehoff</a><br>—<a href="http://fabrizioraschetti.tumblr.com/" target="_blank" title="Fabrizio Raschetti">Fabrizio Raschetti</a></p>
+<p>Size: 9x12"<br>Pages: 275<br>Binding: Soft Cover<br>Type: Cigars by Heavyweight Foundry<br>Designed by Number 04<br>Published by Actual Source<br>N04-005</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/shoplifters-issue-4">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/shoplifters-issue-4">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/shoplifters-issue-4">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/shoplifters-issue-4&media=//cdn.shopify.com/s/files/1/0866/5580/products/00_SL4_cover.jpg?v=1474399927&description=Shoplifters%20Issue%204%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="3" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="282358871074" value="28235887107">
+              <label class="select-radio-label" for="282358871074">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/dinamo-world-tour">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Dinamo: World Tour Sweatshirt (Black Front / Red Back)</span>
+      <a href="#" data-available="true"  class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 45.00</p>
+      <a href="/products/dinamo-world-tour" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span>/4
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_tour1.jpg?v=1477889462">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/worldtour9.jpg?v=1477889462">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/worldtour8.jpg?v=1477889462">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/worldtour10.jpg?v=1477889462">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p>2 color (black front/red back) screen print on black cotton crew neck sweatshirt. Printed in a limited edition in Germany.</p>
+<p> MD, LG, XL</p>
+<p>Designed by <a href="http://abcdinamo.com/" target="_blank" title="Dinamo">Dinamo</a>.</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/dinamo-world-tour">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/dinamo-world-tour">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/dinamo-world-tour">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/dinamo-world-tour&media=//cdn.shopify.com/s/files/1/0866/5580/products/world_tour1.jpg?v=1477889462&description=Dinamo:%20World%20Tour%20Sweatshirt%20(Black%20Front%20/%20Red%20Back)%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="4" class="select-box-label">Size</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="282437214115" value="28243721411">
+              <label class="select-radio-label" for="282437214115">MD</label>
+              
+              <input class="select-radio" type="radio" name="id" id="307301637155" value="30730163715">
+              <label class="select-radio-label" for="307301637155">LG</label>
+              
+              <input class="select-radio" type="radio" name="id" id="307301637795" value="30730163779">
+              <label class="select-radio-label" for="307301637795">XL</label>
+              
+              <input class="select-radio" type="radio" name="id" id="308808701475" value="30880870147">
+              <label class="select-radio-label" for="308808701475">XXL</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/migrant-journal-issue-1">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Migrant Journal Issue 1</span>
+      <a href="#" data-available="true" data-prod-id="32010882894" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 27.00</p>
+      <a href="/products/migrant-journal-issue-1" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span><span  data-slider-link-id="6">7</span>/7
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/001_MIGRANT.jpg?v=1487299069">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/002_MIGRANT.jpg?v=1487299069">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/003_MIGRANT.jpg?v=1487299069">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/004_MIGRANT.jpg?v=1487299069">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/005_MIGRANT.jpg?v=1487299069">
+      
+        <img data-slider-id="5" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/006_MIGRANT.jpg?v=1487299069">
+      
+        <img data-slider-id="6" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/007_MIGRANT.jpg?v=1487299069">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p>ISSUE 1<br>The refugee crisis that Europe is currently facing is shedding a dramatic light on the countryside. Syrians refugees flee the war via Turkey, then Greece and t heir isolated beaches, to move on to travel Europe across country, fields and scenic landscapes via Macedonia, Serbia, Bosnia, Croatia... The forgotten rural land is the stage of our present migration tragedy, not cities.</p>
+<p>Migrations in rural settings, however, transcend movements of people. The countryside is the metaphor of the nation, its permanence is celebrated in the vocabulary and the iconography: soil, roots, trees, farmers. But, like cities, the countryside has dramatically changed, influenced by human and ecological footprints—man-made or natural. Most of the fruits, vegetables and cereals that are part of our everyday diet and whose crops are shaping our rural landscapes are not autochthonous, they were imported. Seeds are also migrants, so are the mechanical inventions that shape our landscape. What will be the migration of tomorrow? What will be the countryside of tomorrow?</p>
+<p>ABOUT MIGRANT<br>The Journal explores the circulation of people, goods, information, and even fauna and flora, around the world and the transformative impact they have on contemporary life. While migration is part of humanity's genesis, it seems the phenomenon has become ubiquitous, happening faster, with complex ramifications.</p>
+<p>MIGRANT aims at exploring the relationship between these elements, events, journeys and spaces bound under the idea of 'migration' in all its forms, crucial to understand today's society.</p>
+<p>In order to break from the prejudices and clichés of migrants and migration, MIGRANT asks artists, journalists, academics, designers, architects, philosophers, activists and citizens to rethink our approach to migration and critically explore the new spaces it creates.</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/migrant-journal-issue-1">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/migrant-journal-issue-1">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/migrant-journal-issue-1">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/migrant-journal-issue-1&media=//cdn.shopify.com/s/files/1/0866/5580/products/001_MIGRANT.jpg?v=1487299069&description=Migrant%20Journal%20Issue%201%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="5" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="320108828946" value="32010882894">
+              <label class="select-radio-label" for="320108828946">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/taking-a-line-for-a-walk-assignments-in-design-education">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Taking a Line for a Walk: Assignments in Design Education</span>
+      <a href="#" data-available="false" data-prod-id="" class="add-to-cart disabled">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">N/A</p>
+      <a href="/products/taking-a-line-for-a-walk-assignments-in-design-education" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span>/6
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/taking1.jpg?v=1489558756">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/taking2.jpg?v=1489558756">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/taking3.jpg?v=1489558756">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/taking4.jpg?v=1489558756">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/taking5.jpg?v=1489558756">
+      
+        <img data-slider-id="5" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/taking6.jpg?v=1489558756">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p><span>Assignments can give instructions, describe an exercise, present a problem, set out rules, propose a game, stimulate a process, or simply throw out questions. Taking a Line for a Walk brings attention to something that is often neglected: the assignment as a pedagogical element and verbal artefact of design education. This book is a compendium of 224 assignments, edited by Nina Paim and coedited by Emilia Bergmark. A reference book for educators, researchers, and students alike, it includes both contemporary and historical examples and offers a space for different lines of design pedagogy to converge and converse. An accompanying essay by Corinne Gisel takes a closer look at the various forms assignments can take and the educational contexts they exist within. Taking a Line for a Walk derived from an exhibition of the same name at the International Biennial of Graphic Design Brno 2014. </span></p>
+<meta charset="utf-8">
+<p>EDITOR<br><span class="views-row"><span>Nina Paim</span></span></p>
+<p>DESIGNER<br><span class="views-row"><span>Nina Paim</span></span><span class="views-row-delimiter">, </span><span class="views-row"><span>Corinne Gisel</span></span></p>
+<p>CONCEIVED BY<br><span class="views-row"><span>Nina Paim</span></span><span class="views-row-delimiter">, </span><span class="views-row"><span>Emilia Bergmark</span></span><span class="views-row-delimiter">, </span><span class="views-row"><span>Corinne Gisel</span></span></p>
+<p>CO-EDITOR<br>Emilia Bergmark</p>
+<p>TEXT<br>Corinne Gisel</p>
+<p> </p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/taking-a-line-for-a-walk-assignments-in-design-education">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/taking-a-line-for-a-walk-assignments-in-design-education">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/taking-a-line-for-a-walk-assignments-in-design-education">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/taking-a-line-for-a-walk-assignments-in-design-education&media=//cdn.shopify.com/s/files/1/0866/5580/products/taking1.jpg?v=1489558756&description=Taking%20a%20Line%20for%20a%20Walk:%20Assignments%20in%20Design%20Education%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="6" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="371374533267" value="37137453326">
+              <label class="select-radio-label" for="371374533267">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/actual-source-dinamo-01-16-bag">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Actual Source + Dinamo 01-16 Bag</span>
+      <a href="#" data-available="true" data-prod-id="33049385934" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 45.00</p>
+      <a href="/products/actual-source-dinamo-01-16-bag" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span>/4
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/dinamo1.jpg?v=1482108013">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/dinamo2.jpg?v=1482108016">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/work.jpg?v=1482108510">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/dinamo3.jpg?v=1482108927">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p>"Work &amp; Travel" bag designed by <a href="http://abcdinamo.com" target="_blank" title="Dinamo">Dinamo</a>.<br>Features the Galapagos typeface by Dinamo and <a href="http://felixsalut.com/Works" title="Felix Salut">Felix Salut</a>.</p>
+<p><span>Heavy 18oz duck canvas bag with large internal pocket and high quality screen print.</span></p>
+<p>13 x 18 x 3 Inches<br>31" shoulder strap<br>8" handles<br>Reinforced side gusset<br>Tonal taped seams<br>Actual Source woven label</p>
+<p>Made in Los Angeles, USA</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/actual-source-dinamo-01-16-bag">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/actual-source-dinamo-01-16-bag">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/actual-source-dinamo-01-16-bag">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/actual-source-dinamo-01-16-bag&media=//cdn.shopify.com/s/files/1/0866/5580/products/dinamo1.jpg?v=1482108013&description=Actual%20Source%20+%20Dinamo%2001-16%20Bag%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="7" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="330493859348" value="33049385934">
+              <label class="select-radio-label" for="330493859348">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/n04-hat">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Number 04 "Hand" Hat</span>
+      <a href="#" data-available="true" data-prod-id="27712008131" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 35.00</p>
+      <a href="/products/n04-hat" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span>/5
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/n04_hat2.jpg?v=1479084735">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_N04_hat.jpg?v=1479084735">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_N04_hat2.jpg?v=1479084735">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_N04_hat3.jpg?v=1479084735">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00_N04_hat4.jpg?v=1479084735">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>Adjustable flat cap with embroidered N04 selection hand.</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/n04-hat">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/n04-hat">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/n04-hat">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/n04-hat&media=//cdn.shopify.com/s/files/1/0866/5580/products/n04_hat2.jpg?v=1479084735&description=Number%2004%20%22Hand%22%20Hat%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="8" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="277120081319" value="27712008131">
+              <label class="select-radio-label" for="277120081319">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/jan-horcik-oasis">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Jan Horčík: Oasis</span>
+      <a href="#" data-available="true" data-prod-id="16994824323" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 100.00</p>
+      <a href="/products/jan-horcik-oasis" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span>/6
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Kat_1.jpg?v=1476168936">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/image.png?v=1476168936">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/floor_1.jpg?v=1476168936">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/numbers.png?v=1476168936">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/floor_2.jpg?v=1476168936">
+      
+        <img data-slider-id="5" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Kat_1.png?v=1476169011">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p><span>Oasis, Typeface, 2016<br></span>By Jan Horčík</p>
+<meta charset="utf-8">
+<p><span>Opentype (.OTF) format<br>70x100 cm dye sublimated scarf<br>Limited Edition of 100</span></p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/jan-horcik-oasis">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/jan-horcik-oasis">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/jan-horcik-oasis">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/jan-horcik-oasis&media=//cdn.shopify.com/s/files/1/0866/5580/products/Kat_1.jpg?v=1476168936&description=Jan%20Hor%C4%8D%C3%ADk:%20Oasis%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="9" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="1699482432310" value="16994824323">
+              <label class="select-radio-label" for="1699482432310">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/library-paper-07">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Library Paper 07</span>
+      <a href="#" data-available="true" data-prod-id="32862981774" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 15.00</p>
+      <a href="/products/library-paper-07" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span>/5
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/LB1.jpg?v=1481743839">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/LB2.jpg?v=1481743841">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/LB3.jpg?v=1481743842">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/LB5.jpg?v=1481743844">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/LB6.jpg?v=1481743845">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p>Publication by <a href="http://www.thisiscatalogue.co.uk/" target="_blank" title="Catalogue">Catalogue</a></p>
+<p><span>— Edition of 500<br></span><span>— 60 Pages<br></span><span>— Full Colour Print<br></span><span>— Two colour enamel pin badge and backing by </span><a href="http://number04.com/" target="_blank">Number 04</a><span>.</span></p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/library-paper-07">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/library-paper-07">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/library-paper-07">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/library-paper-07&media=//cdn.shopify.com/s/files/1/0866/5580/products/LB1.jpg?v=1481743839&description=Library%20Paper%2007%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="10" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="3286298177411" value="32862981774">
+              <label class="select-radio-label" for="3286298177411">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/lighht-for-actual-source">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Lighht: The Black Candle</span>
+      <a href="#" data-available="true" data-prod-id="29190324227" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 90.00</p>
+      <a href="/products/lighht-for-actual-source" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span>/3
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/lighht_AS_2000X1334_c0c2361c-ba43-487c-8164-d72ff555ba9b.png?v=1475507956">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/lighht_AS_2000X1334_2.png?v=1475507956">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/lighht_AS_2000X1334_3.png?v=1475507956">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <a href="http://www.lighht.co/" target="_blank" title="Lighht">Lighht</a> for Actual Source: The Black Candle<br><meta charset="utf-8">
+<p class="_frontcaptions"><span>Size: 5" x 14"<br>Made in Phildelphia with </span><a href="http://www.mithrascandle.com/" target="_blank">Mithras Candle</a></p>
+<p class="_frontcaptions">Photos by <a href="http://www.paul-salveson.com/" title="Paul Salveson">Paul Salveson</a></p>
+<p class="_frontcaptions"><em>Note: </em><em>Burn candle on a plate or tray, it drips like a mofo.</em></p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/lighht-for-actual-source">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/lighht-for-actual-source">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/lighht-for-actual-source">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/lighht-for-actual-source&media=//cdn.shopify.com/s/files/1/0866/5580/products/lighht_AS_2000X1334_c0c2361c-ba43-487c-8164-d72ff555ba9b.png?v=1475507956&description=Lighht:%20The%20Black%20Candle%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="11" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2919032422712" value="29190324227">
+              <label class="select-radio-label" for="2919032422712">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/world-series-vol-1">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">World Series Vol.1</span>
+      <a href="#" data-available="true" data-prod-id="28235940739" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 15.00</p>
+      <a href="/products/world-series-vol-1" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span>/6
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_1.jpg?v=1474475950">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_2.jpg?v=1474475952">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_3.jpg?v=1474475953">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_4.jpg?v=1474475955">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_5.jpg?v=1474475957">
+      
+        <img data-slider-id="5" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/world_6.jpg?v=1474475958">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>Wold Series Vol.1 is a collaboration between Sam &amp; Kaeli Wood (US) and Bomie Lee (KR) based off a set of rules created specifically for this series.</p>
+<p>Rule 1<br>Participants 1&amp;2 take 15 photos of their everyday surroundings.</p>
+<p>Rule 2<br>Each participant sends the other their photos</p>
+<p>Rule 3<br>Participants do their best to match the composition and subject matter of the the other.</p>
+<p>Size: 5x7"<br>Binding: Soft Cover<br>Designed by Sam Wood (Currently at N04)<br>Published by Actual Source<br>N04-006</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/world-series-vol-1">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/world-series-vol-1">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/world-series-vol-1">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/world-series-vol-1&media=//cdn.shopify.com/s/files/1/0866/5580/products/world_1.jpg?v=1474475950&description=World%20Series%20Vol.1%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="12" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2823594073913" value="28235940739">
+              <label class="select-radio-label" for="2823594073913">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/taiping-tianguo-a-history-of-possible-encounters-ai-weiwei-frog-king-kwok-tehching-hsieh-and-martin-wong-in-new-york">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Taiping Tianguo A History Of Possible Encounters</span>
+      <a href="#" data-available="true" data-prod-id="30116005507" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 30.00</p>
+      <a href="/products/taiping-tianguo-a-history-of-possible-encounters-ai-weiwei-frog-king-kwok-tehching-hsieh-and-martin-wong-in-new-york" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span>/4
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Taiping_1.jpg?v=1477018615">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Taiping_2.jpg?v=1477018617">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Taiping_3.jpg?v=1477018619">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Taiping_4.jpg?v=1477018621">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p>How did Ai Weiwei, Frog King Kwok, Tehching Hsieh and Martin Wong—four artists of Chinese heritage hailing from mainland China, Hong Kong, Taiwan and San Francisco, respectively—all end up in New York in the heady 1980s? By considering them together, what might we learn about their practices and this storied time and place in art history? With these questions in mind, <i>Taiping Tianguo: A History of Possible Encounters</i> takes nuanced glimpses of the artists’ overlapping experiences, networks and friendships. Including a rich collection of photographs of the artists’ work, a timeline (1841–2011) charting general history, art history and biographical information from the exhibition, and essays by Hong Kong curator Doryun Chong, Para Site director Cosmin Costinas, among others, this book underlines the political and gendered nature of the music/art scene in New York art of the 1980s and the simultaneous emergence of contemporary Chinese art.</p>
+<p class="specs">July 2015 / Exhibition catalog / Softcover<br>6 3/4 x 9 1/2 inches / 144 pp / 47 b&amp;w and 69 color<br>ISBN: 978-3-95679-116-1</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/taiping-tianguo-a-history-of-possible-encounters-ai-weiwei-frog-king-kwok-tehching-hsieh-and-martin-wong-in-new-york">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/taiping-tianguo-a-history-of-possible-encounters-ai-weiwei-frog-king-kwok-tehching-hsieh-and-martin-wong-in-new-york">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/taiping-tianguo-a-history-of-possible-encounters-ai-weiwei-frog-king-kwok-tehching-hsieh-and-martin-wong-in-new-york">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/taiping-tianguo-a-history-of-possible-encounters-ai-weiwei-frog-king-kwok-tehching-hsieh-and-martin-wong-in-new-york&media=//cdn.shopify.com/s/files/1/0866/5580/products/Taiping_1.jpg?v=1477018615&description=Taiping%20Tianguo%20A%20History%20Of%20Possible%20Encounters%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="13" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="3011600550714" value="30116005507">
+              <label class="select-radio-label" for="3011600550714">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/other-means-nashville-1">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Other Means: Nashville</span>
+      <a href="#" data-available="true" data-prod-id="29483467203" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 15.00</p>
+      <a href="/products/other-means-nashville-1" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span>/5
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00nash.jpg?v=1475796272">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/01nash.jpg?v=1475796274">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/02nash.jpg?v=1475796276">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/03nash.jpg?v=1475796278">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/04nash.jpg?v=1475796280">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>Nashville fan fiction written by spikessweetgirl75<br>Typefaces by <a href="http://abcdinamo.com" title="Dinamo Typefaces">Dinamo</a><br>Design by <a href="http://othermeans.us" title="Other Means">Other Means<br><br></a></p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/other-means-nashville-1">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/other-means-nashville-1">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/other-means-nashville-1">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/other-means-nashville-1&media=//cdn.shopify.com/s/files/1/0866/5580/products/00nash.jpg?v=1475796272&description=Other%20Means:%20Nashville%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="14" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2948346720315" value="29483467203">
+              <label class="select-radio-label" for="2948346720315">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/actual-source-drape-hat-pink">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Actual Source "Drape" Hat (Pink)</span>
+      <a href="#" data-available="true" data-prod-id="28236203715" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 35.00</p>
+      <a href="/products/actual-source-drape-hat-pink" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span>/2
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/drape_hat2.jpg?v=1479084680">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/drape_hat1.jpg?v=1479084680">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p><span>Adjustable 6 panel cap with embroidered drape logo.</span></p>
+<p> </p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/actual-source-drape-hat-pink">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/actual-source-drape-hat-pink">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/actual-source-drape-hat-pink">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/actual-source-drape-hat-pink&media=//cdn.shopify.com/s/files/1/0866/5580/products/drape_hat2.jpg?v=1479084680&description=Actual%20Source%20%22Drape%22%20Hat%20(Pink)%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="15" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2823620371516" value="28236203715">
+              <label class="select-radio-label" for="2823620371516">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/noah-jackson-hymns">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Noah Jackson: Hymns</span>
+      <a href="#" data-available="true" data-prod-id="30190985411" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 65.00</p>
+      <a href="/products/noah-jackson-hymns" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span><span  data-slider-link-id="5">6</span><span  data-slider-link-id="6">7</span>/7
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00noah.jpg?v=1478634625">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/01noah.jpg?v=1478634625">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/02noah.jpg?v=1478634625">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/03noah.jpg?v=1478634625">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/04noah.jpg?v=1478634625">
+      
+        <img data-slider-id="5" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/06noah.jpg?v=1478634625">
+      
+        <img data-slider-id="6" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/05noah.jpg?v=1478634625">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p class="p1">Hymns is a tribute to the sweetness and bitterness of feeling lonely. I am beginning to understand myself by hiding, archiving friends and dreamscapes that exist in imaginary places. In this work mystical relationships fold in on themselves, surrounded by ornate environments that illustrate my ideal heaven.</p>
+<p class="p1">In this heaven Gods take vacations, explore, and feel bored and sad -- always in venues where knowledge comes in halves and pieces and the desire to become fluent and natural fades in and out.</p>
+<p>Images and text by Noah Jackson<br>Size: 8x10.5"<br>Pages: 104<br>Edition of 100<br>Available December 1, 2016</p>
+<p>Designed by Noah and <a href="http://number04.com" target="_blank" title="Number 04">Number 04</a></p>
+<p> </p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/noah-jackson-hymns">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/noah-jackson-hymns">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/noah-jackson-hymns">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/noah-jackson-hymns&media=//cdn.shopify.com/s/files/1/0866/5580/products/00noah.jpg?v=1478634625&description=Noah%20Jackson:%20Hymns%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="16" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="3019098541117" value="30190985411">
+              <label class="select-radio-label" for="3019098541117">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/harry-gassel-tommy-flag-series">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Harry Gassel: Tommy Flag Series</span>
+      <a href="#" data-available="true" data-prod-id="29483262531" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 25.00</p>
+      <a href="/products/harry-gassel-tommy-flag-series" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span>/5
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/00tommy.jpg?v=1475795899">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/01tommy.jpg?v=1475795900">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/02tommy.jpg?v=1475795902">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/03tommy.jpg?v=1475795904">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/04tommy.jpg?v=1475795906">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>A3/Fold, Riso SE 9380E<br>80 (gsm) Munken Lynx<br>2/2 (Blue+Fluo Orange</p>
+<p>The Ventriloquist Press<br>Oslo, Norway</p>
+<p>Harry Gassel, 2016<br>Edition of 50</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/harry-gassel-tommy-flag-series">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/harry-gassel-tommy-flag-series">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/harry-gassel-tommy-flag-series">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/harry-gassel-tommy-flag-series&media=//cdn.shopify.com/s/files/1/0866/5580/products/00tommy.jpg?v=1475795899&description=Harry%20Gassel:%20Tommy%20Flag%20Series%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="17" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2948326253118" value="29483262531">
+              <label class="select-radio-label" for="2948326253118">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/bauhaus-news-contemporary-remarks">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Bauhaus News: Contemporary Remarks</span>
+      <a href="#" data-available="true" data-prod-id="30115404803" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 30.00</p>
+      <a href="/products/bauhaus-news-contemporary-remarks" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span><span  data-slider-link-id="4">5</span>/5
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Bauhaus_News_2.jpg?v=1477016253">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Bauhaus_News_3.jpg?v=1477016289">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Bauhaus_News_4.jpg?v=1477016291">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Bauhaus_News_5.jpg?v=1477016294">
+      
+        <img data-slider-id="4" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/Bauhaus_News_1.jpg?v=1477016296">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p><span>As its 2019 centenary approaches, we are reminded that the Bauhaus was not only a new school type but an entirely new approach to knowledge acquisition. To what extent is the Bauhaus tied to its place and history? Can it guide critical practice in today’s globalized world? Inspire alternative educational models? Gathered in this dense and intelligent reader are discussions, stories and statements from an international group of over 50 Bauhaus experts, including original texts by Walter Gropius and Moholy-Nagy and texts by curators, historians, philosophers, artists and architects who met in 2014 to discuss the school’s history and future relevance. Organized into three sections addressing Bauhaus location, history and character, the book highlights its open-ended curriculum, workshop-based combination of research and design, theory and practice, and its structural inte- gration of artistic disciplines that make it a model for the future. And it’s a good thing, too, as we face the imperative to sustain our exploding population in the next hundred years.</span></p>
+<meta charset="utf-8">
+<p><span><span>February 2016 / English &amp; German / Softcover</span><br><span>4.75 x 7.5 inches / 298 pp / 20 color</span><br><span>ISBN: 978-3-95905-057-9</span><br></span></p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/bauhaus-news-contemporary-remarks">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/bauhaus-news-contemporary-remarks">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/bauhaus-news-contemporary-remarks">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/bauhaus-news-contemporary-remarks&media=//cdn.shopify.com/s/files/1/0866/5580/products/Bauhaus_News_2.jpg?v=1477016253&description=Bauhaus%20News:%20Contemporary%20Remarks%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="18" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="3011540480319" value="30115404803">
+              <label class="select-radio-label" for="3011540480319">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/actual-source-hamburger-pin">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Actual Source "Hamburger" Pin</span>
+      <a href="#" data-available="true" data-prod-id="29732397379" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 15.00</p>
+      <a href="/products/actual-source-hamburger-pin" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span>/2
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/pin1.jpg?v=1476293123">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/pin2.jpg?v=1476293125">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8"><span>Actual Source "Hamburger" pin.</span><br><span>1" x .75" soft enamel</span><br><span>1mm thickness</span>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/actual-source-hamburger-pin">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/actual-source-hamburger-pin">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/actual-source-hamburger-pin">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/actual-source-hamburger-pin&media=//cdn.shopify.com/s/files/1/0866/5580/products/pin1.jpg?v=1476293123&description=Actual%20Source%20%22Hamburger%22%20Pin%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="19" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2973239737920" value="29732397379">
+              <label class="select-radio-label" for="2973239737920">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/daniel-everett-throughout-the-universe-in-perpetuity">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Daniel Everett: Throughout The Universe In Perpetuity</span>
+      <a href="#" data-available="true" data-prod-id="16662119107" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 55.00</p>
+      <a href="/products/daniel-everett-throughout-the-universe-in-perpetuity" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span>/4
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/d_everett_cover.jpg?v=1456209822">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/d_everett_spine.jpg?v=1456209834">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/d_everett_spread1.jpg?v=1456209843">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/d_everett_spread2.jpg?v=1456209853">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p>Photography by Daniel Everett <br>Edited and designed by Études Studio <br>Published by Études Books, Paris <br>Image post production by Janvier</p>
+<p>First edition, 500 copies <br>November 2015, printed in EU</p>
+<meta charset="utf-8">
+<p>144 pages full color offset <br>24 x33 cm / 9,5’’x13’’, <br>Hard Cover <br>Text Language: English / French <br>Publication date: November 2015</p>
+<p>ISBN 978-2-36962-009-9</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/daniel-everett-throughout-the-universe-in-perpetuity">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/daniel-everett-throughout-the-universe-in-perpetuity">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/daniel-everett-throughout-the-universe-in-perpetuity">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/daniel-everett-throughout-the-universe-in-perpetuity&media=//cdn.shopify.com/s/files/1/0866/5580/products/d_everett_cover.jpg?v=1456209822&description=Daniel%20Everett:%20Throughout%20The%20Universe%20In%20Perpetuity%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="20" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="1666211910721" value="16662119107">
+              <label class="select-radio-label" for="1666211910721">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/actual-source-drape-pin">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Actual Source "Drape" Pin</span>
+      <a href="#" data-available="true" data-prod-id="20688345859" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 15.00</p>
+      <a href="/products/actual-source-drape-pin" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span>/2
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/wc_ActualSource_20160514_2760_web.jpg?v=1464105516">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/wc_ActualSource_20160514_2760_close-web.jpg?v=1464194669">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <p>Actual Source "Drape" logo pin.<br>1.25" x 1" soft enamel<br>1mm thickness</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/actual-source-drape-pin">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/actual-source-drape-pin">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/actual-source-drape-pin">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/actual-source-drape-pin&media=//cdn.shopify.com/s/files/1/0866/5580/products/wc_ActualSource_20160514_2760_web.jpg?v=1464105516&description=Actual%20Source%20%22Drape%22%20Pin%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="21" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2068834585922" value="20688345859">
+              <label class="select-radio-label" for="2068834585922">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+      <article class="product" data-prod-url="/products/allan-ludwig-screen-print-n-1-black">
+  <div class="product-inner">
+    <header class="product-header">
+      <div class="details-top-cover"></div>
+      <div class="details-bottom-cover"></div>
+      <span class="name">Allan Ludwig Screen Print Nº1 (Black)</span>
+      <a href="#" data-available="true" data-prod-id="21404685699" class="add-to-cart">Add to Cart</a>
+      <a href="#" class="info">Information</a>
+      <p class="price">$ 50.00</p>
+      <a href="/products/allan-ludwig-screen-print-n-1-black" class="zoom"></a>
+      <a href="#" class="close-slider"></a>
+    </header>
+
+    <div class="mobile-slider-control">
+      <span  class="active" data-slider-link-id="0">1</span><span  data-slider-link-id="1">2</span><span  data-slider-link-id="2">3</span><span  data-slider-link-id="3">4</span>/4
+    </div>
+
+    <div class="slider">
+      
+        <img data-slider-id="0" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/AS_BLACK_WEB_wood.jpg?v=1465188509">
+      
+        <img data-slider-id="1" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/AL_BLUE_CLOSE_wood.jpg?v=1465188509">
+      
+        <img data-slider-id="2" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/AL_BLACK_CLOSE_wood1.jpg?v=1465188509">
+      
+        <img data-slider-id="3" class="product-image lazy" data-original="//cdn.shopify.com/s/files/1/0866/5580/products/SIG_WEB3a_ab1b5fd2-e5bc-455e-bbc0-0da4615898e3.jpg?v=1465188509">
+      
+    </div>
+    <a href="#" class="next"></a>
+    <a href="#" class="prev"></a>
+
+    <div class="product-details slide-over">
+        <div class="description rte">
+            <meta charset="utf-8">
+<p><span>50cm X 70cm<br></span>1 color screen print (black)<br>Printed on 100 lb Accent Opaque<br>Edition of 50<br>Signed by the artist</p>
+            <p class="share-container">
+                <a class="share-link" href="#">Share</a> <span class="down">&darr;</span><span class="up">&uarr;</span><br>
+                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://actualsource.org/products/allan-ludwig-screen-print-n-1-black">Facebook</a><br>
+                <a target="_blank" href="http://www.twitter.com/share?url=https://actualsource.org/products/allan-ludwig-screen-print-n-1-black">Twitter</a><br>
+                <a target="_blank" href="http://www.tumblr.com/share/link?url=https://actualsource.org/products/allan-ludwig-screen-print-n-1-black">Tumblr</a><br>
+                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://actualsource.org/products/allan-ludwig-screen-print-n-1-black&media=//cdn.shopify.com/s/files/1/0866/5580/products/AS_BLACK_WEB_wood.jpg?v=1465188509&description=Allan%20Ludwig%20Screen%20Print%20N%C2%BA1%20(Black)%20@%20Actual%20Source">Pinterest</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="cart-details slide-over">
+      <form action="/cart/add" method="post" enctype="multipart/form-data" class="add-to-cart-form">
+        <div class="input-box select-box">
+          <label data-counter="22" class="select-box-label">Title</label>
+            <div class="select-box-options">
+              
+              <input class="select-radio" type="radio" name="id" id="2140468569923" value="21404685699">
+              <label class="select-radio-label" for="2140468569923">Default Title</label>
+              
+            </div>
+        </div>
+        <div class="input-box">
+          <label>Quantity</label>
+          <input type="text" class="quantity" name="quantity" value="1">
+        </div>
+        <div class="input-box">
+          <label class="actually-add">Actually Add</label>
+          <input type="submit" class="cart-submit" value="+">
+        </div>
+      </form>
+    </div>
+</div>
+
+</article>
+
+    
+
+    
+
+  
+
+</section>
+
+    
+
+ 
+    
+        
+
+<div class="anchor" id="books-anchor"></div>
+<section class="shop-section preload" id="books" data-collection-url="/collections/books">
+  <h1 class="section-title">PUBLICATIONS</h1>
+  
+  
+  
+
+    
+        <div style="display: none" class="more" data-collection-url="/collections/books" data-pagination-url="/collections?page=2"></div>
+    
+
+  
+
+</section>
+
+    
+
+ 
+    
+        
+
+<div class="anchor" id="clothing-anchor"></div>
+<section class="shop-section preload" id="clothing" data-collection-url="/collections/clothing">
+  <h1 class="section-title">CLOTHING</h1>
+  
+  
+  
+
+    
+
+  
+
+</section>
+
+    
+
+ 
+    
+        
+
+<div class="anchor" id="accessories-anchor"></div>
+<section class="shop-section preload" id="accessories" data-collection-url="/collections/accessories">
+  <h1 class="section-title">ACCESSORIES</h1>
+  
+  
+  
+
+    
+
+  
+
+</section>
+
+    
+
+ 
+    
+        
+
+<div class="anchor" id="objects-anchor"></div>
+<section class="shop-section preload" id="objects" data-collection-url="/collections/objects">
+  <h1 class="section-title">OBJECTS</h1>
+  
+  
+  
+
+    
+
+  
+
+</section>
+
+    
+
+ 
+    
+        
+
+<div class="anchor" id="prints-anchor"></div>
+<section class="shop-section preload" id="prints" data-collection-url="/collections/prints">
+  <h1 class="section-title">PRINTS</h1>
+  
+  
+  
+
+    
+
+  
+
+</section>
+
+    
+
+ 
+    
+        
+
+<div class="anchor" id="reduced-anchor"></div>
+<section class="shop-section preload" id="reduced" data-collection-url="/collections/reduced">
+  <h1 class="section-title">REDUCED</h1>
+  
+  
+  
+
+    
+
+  
+
+</section>
+
+    
+
+
+      </div>
+
+      </div>
+      <!-- <footer>
+        &copy; Bengels, Arne
+      </footer> -->
+    </section>
+
+    <div class="scrollbar">
+      <div class="scroll-tracker"></div>
+    </div>
+
+    <!-- <div class="screensaver">
+      <h1 class="center-title"><span class="upside-down">Milk</span> Money</h1>
+      <img class="drape" src="//cdn.shopify.com/s/files/1/0866/5580/t/10/assets/drape.png?13611993593432455573">
+      <div class="time"></div>
+      <footer>&copy; Milk Money</footer>
+    </div> -->
+
+    <script src="lib/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script src="lib/jquery.lazyload.js" type="text/javascript"></script>
+    <script src="lib/jquery.mobile.custom.min.js" type="text/javascript"></script>
+    <script src="lib/jquery.mobile.swipeupdown.js" type="text/javascript"></script>
+    <script src="lib/jQuery-FontSpy.js" type="text/javascript"></script>
+
+    <script src="lib/moment.js" type="text/javascript"></script>
+    <script src="lib/store.js" type="text/javascript"></script>
+    <script src="lib/storefront/header-canvas.js" type="text/javascript"></script>
+  </body>
+</html>
