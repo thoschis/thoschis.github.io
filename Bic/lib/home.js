@@ -53,11 +53,11 @@ var settings = {
     },
 
     scrollingTextSpeed: [ // time in seconds to move from right to left
-        {'0': 3},
-        {'768': 3.5},
-        {'960': 4},
-        {'1024': 6},
-        {'1440': 8}
+        {'0': 2},
+        {'768': 2},
+        {'960': 2.5},
+        {'1024': 4},
+        {'1440': 5}
     ],
     scrollingTextGap: 0, // scrolling text gap size in screen widths
 
