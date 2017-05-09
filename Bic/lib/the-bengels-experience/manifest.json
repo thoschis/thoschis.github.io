@@ -22,7 +22,7 @@
   "content_scripts": [
     {
       "matches": [
-        "*://*.dustinyellin.com/*","https://www.facebook.com/*","https://*.twitter.com/*", "*://*.reddit.com/*", "*://*.nytimes.com/*", "*://*.dezeen.com/*", "*://*.wallpaper.com/*", "*://*.itsnicethat.com/*", "*://*.google.com/*", "*://creators.vice.com/*", "*://*.actualsource.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*"
+        "*://*.dustinyellin.com/*","https://www.facebook.com/*","https://*.twitter.com/*", "*://*.reddit.com/*", "*://*.nytimes.com/*", "*://*.dezeen.com/*", "*://*.wallpaper.com/*", "*://*.itsnicethat.com/*", "*://*.google.com/*", "*://creators.vice.com/*", "*://*.actualsource.com/*", "*://*.sgustok.org/*", "*://*.hay.dk/*", "*://*.reasonpartners.com/*", "*://*.thehiveinc.com/*", "*://*.claudecormier.com/*", "*://*.urbanstrategies.com/*", "*://*.kidstudio.co/*", "*://*.montauksofa.com/*", "*://*.partisanprojects.com/*", "*://*.xxix.co/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*", "*://*.urbanstrategies.com/*"
       ],
       "js": [
         "jquery-1.11.1.min.js","inject.js"
