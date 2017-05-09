@@ -1,5 +1,3 @@
-/* ---- dy css ---- */
-
 html {
 	-webkit-font-smoothing: antialiased;
 	position: relative;
@@ -17,15 +15,15 @@ body, html{
 }
 h1,h2,h3,#nav_dy .navbar-brand,#nav_mobile .navbar-brand,.main-nav-list a{
 	text-transform:uppercase;
-	font-family: "adelle-sans",sans-serif;
+	font-family: "Raleway",sans-serif;
 	font-size:16px;
 	letter-spacing:1px;
 	font-weight:400;
 	color:#000;
 }
 p{
-	font-family: "arno-pro", serif;
-	font-size:16px;
+	font-family: "Droid Serif", serif;
+	font-size:14px;
 	font-weight:400;
 	color:#000;
 }
@@ -37,8 +35,8 @@ a:hover,a:focus,a:active{
 	#footer{
 		width:100%;
 		padding:0 20px;
-		font-family:"arno-pro", serif;
-		font-size:13px;
+		font-family:"Droid Serif", serif;
+		font-size:11px;
 	}
 		@media only screen and (min-width : 480px) {
 			#footer{
@@ -128,8 +126,8 @@ a:hover,a:focus,a:active{
 		margin:0;
 	}
 	#nav_dy .navbar-nav>li>a{
-		font-family: "arno-pro";
-		font-size:16px;
+		font-family: "Droid Serif";
+		font-size:14px;
 		margin:0;
 		display:inline-block;
 		width:100%;
@@ -283,8 +281,8 @@ bootstrap adjustments
 		margin-top:0;	
 	}
 	#works-page .panel-heading{
-		font-family:"arno-pro",serif;
-		font-size:16px;
+		font-family:"Droid Serif",serif;
+		font-size:14px;
 		padding:4px 0 1px 0;
 		border-bottom:1px solid #000;
 		height:37px;
@@ -381,8 +379,8 @@ bootstrap adjustments
 		margin:0;
 	}
 	.directory-list li{
-		font-family:"arno-pro",serif;
-		font-size:16px;
+		font-family:"Droid Serif",serif;
+		font-size:14px;
 		border-bottom:1px solid #000;
 		line-height:100%;
 	}
@@ -606,11 +604,11 @@ home
 		padding:20px;
 		margin:0 auto;
 		text-rendering:optimizeLegibility;
-		font-family: "arno-pro", serif;
+		font-family: "Droid Serif", serif;
 	}
 	.work-pane .essay h1{
-		font-family: "arno-pro", serif;
-		font-size:28px;
+		font-family: "Droid Serif", serif;
+		font-size:22px;
 		line-height:130%;
 		margin-bottom:10px;
 		text-transform:none;
@@ -625,10 +623,10 @@ home
 		font-style:italic;
 	}
 	.work-pane .essay .byline{
-		font-family: "arno-pro", serif;
+		font-family: "Droid Serif", serif;
 		text-indent:0;
 		margin-bottom:60px;
-		font-size:16px;
+		font-size:14px;
 		letter-spacing:1px;
 		text-transform:uppercase;
 	}
@@ -808,8 +806,8 @@ home
 		
 /* header content */
 	.igheader-content{
-		font-family:"arno-pro",serif;
-		font-size:16px;
+		font-family:"Droid Serif",serif;
+		font-size:14px;
 		line-height:38px;
 		border-bottom:1px solid #000;
 		height:38px;
@@ -934,7 +932,7 @@ home
 	#nav_mobile .nav>li>a{
 		padding:8px 20px 8px 20px;
 		text-transform:uppercase;
-		font-family: "adelle-sans",sans-serif;
+		font-family: "Raleway",sans-serif;
 		font-size:16px;
 		letter-spacing:1px;
 		font-weight:400;

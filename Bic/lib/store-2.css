@@ -620,13 +620,13 @@ nav {
 .prev {
     left: 0;
     cursor: w-resize;
-    cursor: -webkit-image-set(url(../icons/prev@2x.png) 2x) 0 32, w-resize;
+    cursor: url(../icons/arrow-left.png) 0 32,w-resize;
 }
 
 .next {
     right: 0;
     cursor: e-resize;
-    cursor: -webkit-image-set(url(../icons/next@2x.png) 2x) 0 32, e-resize;
+    cursor: url(../icons/arrow.png) 127 32,e-resize;
 }
 
 .slider-shop-link {
@@ -795,7 +795,8 @@ nav {
 .product-header a {
     color: #fff;
     transition: color .5s;
-    text-decoration: none
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .product-header .name,.product-header .add-to-cart,.product-header .info,.product-header .price,.product-header .close-slider,.product-header .zoom {
