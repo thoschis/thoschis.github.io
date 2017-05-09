@@ -969,26 +969,26 @@ home
 		}
 
 /* cover images */
-	.chessboards{background-image:url(../img/covers/cover_chessboards.jpg);}
-	.dustin-yellin-shreds-10k{background-image:url(../img/covers/cover_dustin-yellin-shreds-10k.jpg)}
-	.elements{background-image:url(../img/covers/cover_elements.jpg);}	
-	.trees{background-image:url(../img/covers/cover_trees.jpg);}
-	.til-human-voices-wake-us{background-image:url(../img/covers/cover_til-human-voices-wake-us.jpg);}
-	.psychogeographies{background-image:url(../img/covers/cover_psychogeographies.jpg);}
-	.caves{background-image:url(../img/covers/cover_caves.jpg);	}
+	.chessboards{background-image:url(http://dustinyellin.com/img/covers/cover_chessboards.jpg);}
+	.dustin-yellin-shreds-10k{background-image:url(http://dustinyellin.com/img/covers/cover_dustin-yellin-shreds-10k.jpg)}
+	.elements{background-image:url(http://dustinyellin.com/img/covers/cover_elements.jpg);}	
+	.trees{background-image:url(http://dustinyellin.com/img/covers/cover_trees.jpg);}
+	.til-human-voices-wake-us{background-image:url(http://dustinyellin.com/img/covers/cover_til-human-voices-wake-us.jpg);}
+	.psychogeographies{background-image:url(http://dustinyellin.com/img/covers/cover_psychogeographies.jpg);}
+	.caves{background-image:url(http://dustinyellin.com/img/covers/cover_caves.jpg);	}
 	.triptych{
-		background-image:url(../img/covers/cover_triptych.jpg);
+		background-image:url(http://dustinyellin.com/img/covers/cover_triptych.jpg);
 		background-position:top right;
 	}
-	.cities{background-image:url(../img/covers/cover_cities.jpg);}
-	.ethnographs{background-image:url(../img/covers/cover_ethnographs.jpg);}
-	.slides{background-image:url(../img/covers/cover_slides.jpg);}	
-	.ant-farms{background-image:url(../img/covers/cover_ant-farms.jpg);}		
+	.cities{background-image:url(http://dustinyellin.com/img/covers/cover_cities.jpg);}
+	.ethnographs{background-image:url(http://dustinyellin.com/img/covers/cover_ethnographs.jpg);}
+	.slides{background-image:url(http://dustinyellin.com/img/covers/cover_slides.jpg);}	
+	.ant-farms{background-image:url(http://dustinyellin.com/img/covers/cover_ant-farms.jpg);}		
 	.crack-up{
-		background-image:url(../img/covers/cover_crack-up.jpg);
+		background-image:url(http://dustinyellin.com/img/covers/cover_crack-up.jpg);
 		background-position:center bottom !important;
 	}		
-	.exhibit_2015-02_lincoln-center{background-image:url(../img/covers/cover_2015_lincoln-center-nycballet.jpg);}
+	.exhibit_2015-02_lincoln-center{background-image:url(http://dustinyellin.com/img/covers/cover_2015_lincoln-center-nycballet.jpg);}
 	
 /* side scroll images */
 	.side-scroll-wrap{
