@@ -55,7 +55,7 @@ setInterval(function() {
  var textnodes = getTextNodes();
  for (var i = 0; i < textnodes.length; i++) {
    var text = textnodes[i].nodeValue;
-   textnodes[i].nodeValue = text.replace(/dustin/gi, "Arne").replace(/yellin/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels")
+   textnodes[i].nodeValue = text.replace(/dustin/gi, "Arne").replace(/yellin/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels").replace(/Actual/gi, "Arne").replace(/Source/gi, "Bengels")
  }
 }, 500);
 
