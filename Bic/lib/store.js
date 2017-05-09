@@ -682,7 +682,7 @@ if ($curtain.length > 0) {
 
   $curtain.click(function(){
     $curtain.remove();
-    window.history.replaceState('Actual Source', 'Actual Source', '/collections');
+    window.history.replaceState('Arne Bengels', 'Arne Bengels', '/collections');
     $body.css('overflow', 'auto');
   });
 } else {
