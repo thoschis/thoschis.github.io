@@ -1,0 +1,32 @@
+{
+  "name": "The Arne Extension",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Has anyone seen my hat I used to have a hat",
+  "homepage_url": "https://thoschis.github.io/Bic",
+  "icons": {
+    "16": "icons/icon16.png",
+    "19": "icons/icon19.png",
+    "48":"icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  // "background": {
+  //   "scripts": [
+  //     "background.js"
+  //   ],
+  //   "persistent": true
+  // },
+  "permissions": [
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.dustinyellin.com/*","https://www.facebook.com/*","https://*.twitter.com/*", "*://*.reddit.com/*", "*://*.nytimes.com/*", "*://*.dezeen.com/*", "*://*.wallpaper.com/*", "*://*.itsnicethat.com/*", "*://*.google.com/*", "*://creators.vice.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*", "*://*.nytimes.com/*"
+      ],
+      "js": [
+        "jquery-1.11.1.min.js","inject.js"
+      ]
+    }
+  ]
+}
