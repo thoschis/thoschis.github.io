@@ -18,7 +18,7 @@ body {
     font: 300 16px/1.2 'Terrazzo';
     margin: 0;
     min-width: 320px;
-    cursor: -webkit-image-set(url(../icons/circle.png)1x,url(../icons/circle@2x.png)2x)0 0,auto;
+    cursor: -webkit-image-set(url(../icons/Circle.png)1x,url(../icons/Circle@2x.png)2x)0 0,auto;
 }
 
 body.locked {
